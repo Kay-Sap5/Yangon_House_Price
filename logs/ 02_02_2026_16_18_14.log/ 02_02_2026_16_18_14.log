@@ -1,4 +1,0 @@
-[2026-02-02 16:18:15,854] - root - INFO - Entered convert_csv_to_json
-[2026-02-02 16:18:16,088] - root - INFO - Converting Successful....
-[2026-02-02 16:18:16,089] - root - INFO - Entered connect_to_mongo
-[2026-02-02 16:18:26,955] - root - INFO - pushed_data_successfully
