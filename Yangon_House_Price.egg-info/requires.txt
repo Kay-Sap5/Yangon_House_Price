@@ -1,0 +1,8 @@
+pandas
+numpy
+bs4
+scikit-learn
+seaborn
+requests
+xgboost
+setuptools

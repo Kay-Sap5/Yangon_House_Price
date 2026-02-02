@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: Yangon-House-Price
+Version: 0.0.1
+Summary: This is the House Price Prediction Project , Based on the real world data , the data is from Shweproperty house 
+Author: Kay Sap Bhetwal
+Author-email: tboy4198@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: bs4
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: requests
+Requires-Dist: xgboost
+Requires-Dist: setuptools
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
