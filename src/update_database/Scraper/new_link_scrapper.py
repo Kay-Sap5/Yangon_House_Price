@@ -32,6 +32,9 @@ class ScrapeNewLink:
             self.new_dataframe = new_dataframe
 
             self.filtered_dataframe = self.new_dataframe[~self.new_dataframe['Links'].isin(self.base_dataframe['Links'])]
+            if self.filtered_dataframe.shape[0] == 0:
+                logging.info(f"filterd DataFrame Shape {self.filtered_dataframe.shape}")
+                quit()
             logging.info("filtered data frame successfully")
             return self.filtered_dataframe.values.flatten()
         except Exception as e:
@@ -59,7 +62,7 @@ class ScrapeNewLink:
 
             new_df = pd.DataFrame({"Links":links})
             os.makedirs(os.path.dirname(self.links_file_path),exist_ok=True)
-
+            
             logging.info(f"Links DataFrame shape =>  {new_df.shape}")
 
             self.filtered_link_arr = self.filter_new_link(new_dataframe=new_df)

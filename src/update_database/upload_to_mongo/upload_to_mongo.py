@@ -66,7 +66,7 @@ class UploadToMongo:
         
             self.records = self.convert_df_to_json(self.dataframe)
             logging.info("Successfully Converted DataFrame To Json")
-
+            
             self.uploaded_status : bool = False
             try:
                 self.collection.insert_many(self.records)
