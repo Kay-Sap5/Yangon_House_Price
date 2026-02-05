@@ -1,0 +1,18 @@
+Train:
+- Column:
+  - Bath Room:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    Bed Room:
+    - 1
+    - 2
+    - 3
+    - 4
+    price:
+    - 1
+    - 2
+    - 3
+    - 4

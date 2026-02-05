@@ -1,0 +1,174 @@
+Test:
+  Bath Room:
+    1.0: 785
+    2.0: 619
+    3.0: 379
+    4.0: 170
+    5.0: 131
+    6.0: 56
+    7.0: 34
+    8.0: 4
+    9.0: 3
+    10.0: 2
+  Bed Room:
+    1.0: 355
+    2.0: 763
+    3.0: 473
+    4.0: 277
+    5.0: 165
+    6.0: 84
+    7.0: 56
+    8.0: 3
+    9.0: 2
+    10.0: 5
+  Floor:
+    25%: 1.0
+    50%: 2.0
+    75%: 4.0
+    count: 2183.0
+    max: 33.0
+    mean: 2.857764544205222
+    min: 0.5
+    std: 2.6168902391617843
+  Type:
+    Apartment: 764
+    Condo: 688
+    House: 731
+  city:
+    ahlon: 54
+    bahan: 60
+    botahtaung: 16
+    dagon: 9
+    dagon myothit (east): 16
+    dagon myothit (north): 218
+    dagon myothit (seikkan): 11
+    dagon myothit (south): 32
+    dawbon: 25
+    hlaing: 146
+    hlaingtharya: 15
+    insein: 22
+    kamaryut: 74
+    kyauktada: 7
+    kyeemyindaing: 24
+    lanmadaw: 29
+    latha: 1
+    mayangone: 170
+    mingaladon: 8
+    mingalartaungnyunt: 19
+    okkalappa north: 24
+    okkalappa south: 354
+    pabedan: 2
+    palae myothit: 1
+    pazundaung: 11
+    sanchaung: 132
+    shwepyithar: 1
+    tamwe: 120
+    thaketa: 118
+    thanlyin: 29
+    thingangkuun: 244
+    yankin: 191
+  ft_square:
+    25%: 972.0
+    50%: 1200.0
+    75%: 2400.0
+    count: 2183.0
+    max: 6265625.0
+    mean: 5031.479606046725
+    min: 0.24
+    std: 134313.73791836304
+  price:
+    25%: 2650.0
+    50%: 6000.0
+    75%: 16000.0
+    count: 2183.0
+    max: 36025.0
+    mean: 11386.992212551535
+    min: 8.0
+    std: 11758.98970218798
+Train:
+  Bath Room:
+    1.0: 785
+    2.0: 619
+    3.0: 379
+    4.0: 170
+    5.0: 131
+    6.0: 56
+    7.0: 34
+    8.0: 4
+    9.0: 3
+    10.0: 2
+  Bed Room:
+    1.0: 355
+    2.0: 763
+    3.0: 473
+    4.0: 277
+    5.0: 165
+    6.0: 84
+    7.0: 56
+    8.0: 3
+    9.0: 2
+    10.0: 5
+  Floor:
+    25%: 1.0
+    50%: 2.0
+    75%: 4.0
+    count: 2183.0
+    max: 33.0
+    mean: 2.857764544205222
+    min: 0.5
+    std: 2.6168902391617843
+  Type:
+    Apartment: 764
+    Condo: 688
+    House: 731
+  city:
+    ahlon: 54
+    bahan: 60
+    botahtaung: 16
+    dagon: 9
+    dagon myothit (east): 16
+    dagon myothit (north): 218
+    dagon myothit (seikkan): 11
+    dagon myothit (south): 32
+    dawbon: 25
+    hlaing: 146
+    hlaingtharya: 15
+    insein: 22
+    kamaryut: 74
+    kyauktada: 7
+    kyeemyindaing: 24
+    lanmadaw: 29
+    latha: 1
+    mayangone: 170
+    mingaladon: 8
+    mingalartaungnyunt: 19
+    okkalappa north: 24
+    okkalappa south: 354
+    pabedan: 2
+    palae myothit: 1
+    pazundaung: 11
+    sanchaung: 132
+    shwepyithar: 1
+    tamwe: 120
+    thaketa: 118
+    thanlyin: 29
+    thingangkuun: 244
+    yankin: 191
+  ft_square:
+    25%: 972.0
+    50%: 1200.0
+    75%: 2400.0
+    count: 2183.0
+    max: 6265625.0
+    mean: 5031.479606046725
+    min: 0.24
+    std: 134313.73791836304
+  price:
+    25%: 2650.0
+    50%: 6000.0
+    75%: 16000.0
+    count: 2183.0
+    max: 36025.0
+    mean: 11386.992212551535
+    min: 8.0
+    std: 11758.98970218798

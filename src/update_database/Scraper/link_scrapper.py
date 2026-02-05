@@ -1,7 +1,7 @@
 import requests
 from src.exception.exception import CustomException
 from src.logging.logger import logging
-from src.constant import LINK_SCRAPPER_SAVED_LINK_FILE_PATH
+from src.constant.traning_pipeline import LINK_SCRAPPER_SAVED_LINK_FILE_PATH
 from bs4 import BeautifulSoup
 import pandas as pd
 import os

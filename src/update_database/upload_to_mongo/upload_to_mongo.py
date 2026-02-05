@@ -4,7 +4,7 @@ import sys
 from src.update_database.scraper_artifact.scraper_artifact import ScrapeDataArtifact
 from src.logging.logger import logging
 from src.exception.exception import CustomException
-from src.constant import LINK_SCRAPPER_SAVED_LINK_FILE_PATH
+from src.constant.traning_pipeline import LINK_SCRAPPER_SAVED_LINK_FILE_PATH
 
 import pymongo
 import certifi
@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 import pandas as pd
 import json
 from src.update_database.scraper_artifact.scraper_artifact import ScrapeNewLinkArtifact
-from src.constant import DATABASE_NAME , COLLECTION_NAME
+from src.constant.traning_pipeline import DATABASE_NAME , COLLECTION_NAME
 
 class UploadToMongo:
     def __init__(self,scrape_data_artifact : ScrapeDataArtifact,

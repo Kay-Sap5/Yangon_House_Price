@@ -10,5 +10,5 @@ dotenv
 certifi
 requests
 pymongo
-
+pyyaml
 # -e .

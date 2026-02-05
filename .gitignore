@@ -1,5 +1,5 @@
 .venv
-Notebook
 .env
-
+logs
+Artifacts
 
