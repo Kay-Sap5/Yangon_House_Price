@@ -24,5 +24,21 @@ class DataFeatureEngineeringArtifact:
 class DataTransformationArtifact:
     transformed_train_data_file_path : str
     transformed_test_data_file_path : str
+    transformed_preprocessor_file_path : str
+
+@dataclass
+class ModelEvaluationMetricsArtifact:
+    r2_score : float
+    mean_absolute_error : float
+    mean_square_error : float
+    root_mean_square_error : float
+    mean_absolute_percentage_error : float
+
+@dataclass
+class ModelTrainingArtifact:
+    trained_final_model_file_path : str
+    train_model_evaluation : ModelEvaluationMetricsArtifact
+    test_model_evaluation : ModelEvaluationMetricsArtifact
+
 
 

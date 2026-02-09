@@ -36,7 +36,8 @@ class DataTransformation:
             ])
 
             cat_pipeline = Pipeline(steps=[
-                ("SimpleImputer",SimpleImputer(strategy="most_frequent"))
+                ("SimpleImputer",SimpleImputer(strategy="most_frequent")),
+                ('OneHotEncoder',OneHotEncoder(handle_unknown='ignore'))
             ])
 
             transformer = ColumnTransformer([
@@ -66,13 +67,16 @@ class DataTransformation:
             self.preporcessor_file = self.preporcessor(num_feature=self.num_feature , cat_feature=self.cat_feature)
             self.preporcessor_file.fit(train_feature)
 
-            save_arr_to_npy(self.data_transformation_config.data_transformation_preprocessor_file_path , self.preporcessor_file)
+            save_pkl_file(self.data_transformation_config.data_transformation_preprocessor_file_path , self.preporcessor_file)
 
-            transformed_train_data = self.preporcessor_file.transform(train_feature)
-            transformed_test_data = self.preporcessor_file.transform(test_feature)
-
+            transformed_train_data = self.preporcessor_file.transform(train_feature).toarray()
+            transformed_test_data = self.preporcessor_file.transform(test_feature).toarray()
+            logging.warning(f"Transformed Train Data shape = {np.shape(transformed_train_data)} , Transformed Test Data Shape = {np.shape(transformed_test_data)}")
+            logging.info(f"Train Feature {np.shape(train_feature)} , Target {train_target.shape}")
+            
             full_transformed_train = np.c_[transformed_train_data , np.array(train_target)]
             full_transformed_test = np.c_[transformed_test_data , np.array(test_target)]
+            
 
             save_arr_to_npy(self.data_transformation_config.data_transformation_transformed_train_file_path,
                              full_transformed_train)
@@ -80,7 +84,8 @@ class DataTransformation:
                              full_transformed_test)
             
             data_transformation_artifact = DataTransformationArtifact(transformed_train_data_file_path=self.data_transformation_config.data_transformation_transformed_train_file_path,
-                                        transformed_test_data_file_path=self.data_transformation_config.data_transformation_transformed_test_file_path)
+                                        transformed_test_data_file_path=self.data_transformation_config.data_transformation_transformed_test_file_path,
+                                        transformed_preprocessor_file_path=self.data_transformation_config.data_transformation_preprocessor_file_path)
             return data_transformation_artifact
 
         except Exception as e:

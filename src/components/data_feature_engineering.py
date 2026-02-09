@@ -75,13 +75,14 @@ class DataFeatureEngineering:
             self.train_data['city'] , self.test_data['city'] = self.arrange_cat(train=self.train_data,
                                                                       test=self.test_data,
                                                                       column='city',
-                                                                      threshold=15)
+                                                                      threshold=20)
             logging.info("Train and Test City Column arranged")
 
             self.train_data['Floor'] , self.test_data['Floor'] = self.arrange_floor(train=self.train_data,
                                                                       test=self.test_data,
                                                                       column='Floor',
                                                                       threshold=6)
+           
 
             logging.info("Train and Test Floor Column arranged")
 
@@ -94,7 +95,7 @@ class DataFeatureEngineering:
             os.makedirs(os.path.dirname(self.data_feature_engineering_config.feature_engineering_test_file_path),exist_ok=True)
 
             self.train_data.to_csv(self.data_feature_engineering_config.feature_engineering_train_file_path)
-            self.train_data.to_csv(self.data_feature_engineering_config.feature_engineering_test_file_path)
+            self.test_data.to_csv(self.data_feature_engineering_config.feature_engineering_test_file_path)
 
             data_feature_engineering_artifact = DataFeatureEngineeringArtifact(
                     feature_engineering_train_file_path=self.data_feature_engineering_config.feature_engineering_train_file_path,

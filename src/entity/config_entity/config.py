@@ -18,17 +18,21 @@ class TrainingPipelineConfig:
             
 
 class DataIngestionConfig:
-     def __init__(self):
+     def __init__(self , training_pipeline_config : TrainingPipelineConfig):
         try:
-            self.training_pipe_line_config = TrainingPipelineConfig()
+            self.training_pipeline_config = training_pipeline_config
 
             self.data_ingestion_dir = os.path.join(
-                 self.training_pipe_line_config.artifact_dir , traning_pipeline.DATA_INGESTION_DIR_NAME
+                 self.training_pipeline_config.artifact_dir , traning_pipeline.DATA_INGESTION_DIR_NAME
             )
 
             self.data_ingestion_raw_dataset_file_path = os.path.join(
                  self.data_ingestion_dir , traning_pipeline.DATA_INGESTION_INGESED_DIR_NAME , traning_pipeline.DATA_INGESTION_DATASET_FILE_NAME
             )
+
+            self.data_base_name = traning_pipeline.DATABASE_NAME
+            self.collection_name = traning_pipeline.COLLECTION_NAME
+            
         except Exception as e:
              raise CustomException(e,sys)
         
@@ -154,5 +158,39 @@ class DataTransformationConfig:
                )
 
 
+          except Exception as e:
+               raise CustomException(e,sys)
+
+class ModelTrainingConfig:
+     def __init__(self,training_pipeline_config : TrainingPipelineConfig):
+          try:
+               self.training_pipeline_config = training_pipeline_config
+
+               self.model_training_dir_name = os.path.join(
+                    self.training_pipeline_config.artifact_dir , traning_pipeline.MODEL_TRAINING_DIR_NAME)
+               
+               self.model_training_trained_model_dir = os.path.join(
+                    self.model_training_dir_name , traning_pipeline.MODEL_TRAINING_TRAINED_MODEL_DIR_NAME
+               )
+
+               self.model_training_trained_model_file_path = os.path.join(
+                    self.model_training_trained_model_dir , traning_pipeline.MODEL_TRAINING_TRAINED_MODEL_FILE_NAME
+               )
+
+               self.model_training_preprocessor_dir = os.path.join(
+                    self.model_training_dir_name , traning_pipeline.MODEL_TRAINING_PREPROCESSOR_DIR_NAME
+               )
+
+               self.model_training_preprocessor_file_path = os.path.join(
+                    self.model_training_preprocessor_dir , traning_pipeline.MODEL_TRAINING_TRAINED_MODEL_FILE_NAME
+               )
+
+               self.model_training_final_model_dir = os.path.join(
+                    self.model_training_dir_name , traning_pipeline.MODEL_TRAINING_FINAL_MODEL_DIR
+               )
+
+               self.model_training_final_model_file_path = os.path.join(
+                    self.model_training_final_model_dir , traning_pipeline.MODEL_TRAINING_FINAL_MODEL_FILE_NAME
+               )
           except Exception as e:
                raise CustomException(e,sys)

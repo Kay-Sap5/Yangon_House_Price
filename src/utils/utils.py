@@ -54,13 +54,28 @@ def save_arr_to_npy(file_path , arr):
     except Exception as e:
         raise CustomException(e,sys)
     
+def load_npy_file(file_path):
+    try:
+        with open(file_path , 'rb') as file:
+            arr = np.load(file , allow_pickle=True)
+        return arr
+    except Exception as e:
+        raise CustomException(e,sys)
+    
 def save_pkl_file(file_path , obj):
     try:
         os.makedirs(os.path.dirname(file_path) , exist_ok=True)
-        with open(file_path , 'w') as file:
+        with open(file_path , 'wb') as file:
             pickle.dump(obj , file)
     except Exception as e:
         raise CustomException(e,sys)
 
+def load_pkl_file(file_path):
+    try:
+        with open(file_path , 'rb') as file:
+            obj_file = pickle.load(file)
+        return obj_file
+    except Exception as e:
+        raise CustomException(e,sys)
 
 
