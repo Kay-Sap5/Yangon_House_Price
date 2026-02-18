@@ -38,9 +38,9 @@ def input(data : InputValidation_Model) -> dict:
     data_dict = data.model_dump(mode='python')
     df = pd.DataFrame([data_dict])
     y_pred = prediction.initiate_prediction(df)
-    y_pred = round(y_pred[0],2)
-    
-    return JSONResponse(status_code=200 , content=({'Prediction':y_pred}))
+    y_pred = round(float(y_pred[0]),2) 
+    print(y_pred)
+    return JSONResponse(status_code=200 , content={'Prediction':y_pred})    
 
 
 
