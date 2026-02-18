@@ -1,0 +1,136 @@
+Test:
+  bath_room:
+    1.0: 161
+    2.0: 115
+    3.0: 84
+    4.0: 27
+    5.0: 30
+    6.0: 13
+    7.0: 6
+    9.0: 1
+  bed_room:
+    1: 82
+    2: 151
+    3: 92
+    4: 57
+    5: 29
+    6: 20
+    7: 5
+    10: 1
+  city:
+    ahlon: 8
+    bahan: 14
+    dagon myothit (north): 43
+    dagon myothit (south): 3
+    hlaing: 33
+    kamaryut: 14
+    lanmadaw: 4
+    mayangone: 33
+    okkalappa south: 73
+    others: 43
+    sanchaung: 31
+    tamwe: 20
+    thaketa: 30
+    thanlyin: 1
+    thingangkuun: 49
+    yankin: 38
+  floor:
+    0: 5
+    1: 138
+    2: 120
+    3: 58
+    4: 28
+    5: 31
+    7: 57
+  ft_square:
+    25%: 937.0
+    50%: 1200.0
+    75%: 2100.0
+    count: 437.0
+    max: 4542.0
+    mean: 1695.1205263157892
+    min: 450.0
+    std: 1166.557554883169
+  price:
+    25%: 2480.0
+    50%: 5800.0
+    75%: 16000.0
+    count: 437.0
+    max: 35955.625
+    mean: 11283.776887871854
+    min: 620.0
+    std: 11676.135442835353
+  type:
+    Apartment: 159
+    Condo: 138
+    House: 140
+Train:
+  bath_room:
+    1.0: 624
+    2.0: 504
+    3.0: 295
+    4.0: 143
+    5.0: 101
+    6.0: 43
+    7.0: 28
+    8.0: 4
+    9.0: 2
+    10.0: 2
+  bed_room:
+    1: 273
+    2: 612
+    3: 381
+    4: 220
+    5: 136
+    6: 64
+    7: 51
+    8: 3
+    9: 2
+    10: 4
+  city:
+    ahlon: 46
+    bahan: 46
+    dagon myothit (north): 175
+    dagon myothit (south): 29
+    hlaing: 113
+    kamaryut: 60
+    lanmadaw: 25
+    mayangone: 137
+    okkalappa south: 281
+    others: 169
+    sanchaung: 101
+    tamwe: 100
+    thaketa: 88
+    thanlyin: 28
+    thingangkuun: 195
+    yankin: 153
+  floor:
+    0: 22
+    1: 553
+    2: 493
+    3: 205
+    4: 154
+    5: 140
+    7: 179
+  ft_square:
+    25%: 972.0
+    50%: 1200.0
+    75%: 2400.0
+    count: 1746.0
+    max: 4542.0
+    mean: 1775.5248052691868
+    min: 0.24
+    std: 1231.327604257457
+  price:
+    25%: 2696.25
+    50%: 6000.0
+    75%: 16000.0
+    count: 1746.0
+    max: 35955.625
+    mean: 11403.284865406644
+    min: 8.0
+    std: 11762.889126158492
+  type:
+    Apartment: 605
+    Condo: 550
+    House: 591

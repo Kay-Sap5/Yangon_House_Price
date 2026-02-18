@@ -1,0 +1,15 @@
+artifact_path: file:C:/Users/M S I/Desktop/Myanmar_Houses_Price_Prediction/mlruns/0/models/m-f8bded3699004218a60f8522ed91294b/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-f8bded3699004218a60f8522ed91294b
+model_size_bytes: 27
+model_uuid: m-f8bded3699004218a60f8522ed91294b
+prompts: null
+run_id: a20ef91232df4a139aefe0e6da6d6cfa
+utc_time_created: '2026-02-18 07:43:14.496752'

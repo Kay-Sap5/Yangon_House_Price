@@ -1,0 +1,1747 @@
+price,city,type,bed_room,bath_room,floor,ft_square
+1600.0,thaketa,Apartment,2,1.0,4.0,1026.0
+15000.0,dagon myothit (north),House,2,1.0,1.0,2400.0
+1545.0,dagon myothit (north),House,2,1.0,1.0,750.0
+1980.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+1900.0,hlaing,Apartment,1,1.0,5.0,860.0
+8700.0,dagon myothit (north),House,4,2.0,2.0,1200.0
+2195.0,thingangkuun,Apartment,2,1.0,5.0,972.0
+9500.0,yankin,Condo,2,2.0,1.0,1168.0
+3500.0,tamwe,Condo,1,1.0,8.0,1150.0
+26500.0,dagon myothit (north),House,6,6.0,3.0,2400.0
+1750.0,kyeemyindaing,Apartment,1,1.0,5.0,625.0
+82000.0,yankin,House,4,6.0,3.0,5000.0
+1890.0,okkalappa south,Apartment,2,2.0,4.0,972.0
+1500.0,dagon myothit (north),Apartment,1,1.0,4.0,750.0
+3500.0,tamwe,Apartment,1,1.0,1.0,900.0
+49500.0,hlaing,House,2,2.0,2.0,6600.0
+18500.0,yankin,Condo,4,4.0,1.0,3050.0
+38000.0,dagon myothit (north),House,7,7.0,3.0,5940.0
+36500.0,thingangkuun,House,5,5.0,3.0,3886.0
+20000.0,mayangone,Condo,3,3.0,1.0,1523.0
+6700.0,dagon myothit (south),House,1,4.0,2.0,1200.0
+30000.0,dagon myothit (north),House,7,7.0,4.0,2400.0
+4150.0,okkalappa south,Condo,2,2.0,5.0,918.0
+2950.0,thingangkuun,Condo,2,2.0,5.0,1026.0
+3300.0,thanlyin,Condo,2,1.0,5.0,710.0
+7500.0,dagon myothit (north),House,3,2.0,2.0,1740.0
+1520.0,okkalappa south,Apartment,1,1.0,4.0,972.0
+17300.0,insein,House,4,5.0,2.0,13968.0
+4100.0,okkalappa north,House,2,2.0,1.5,1200.0
+26000.0,thingangkuun,Condo,6,6.0,1.0,4045.0
+50000.0,thingangkuun,House,6,4.0,2.0,3420.0
+35000.0,yankin,House,3,3.0,2.5,2400.0
+1375.0,sanchaung,Apartment,1,1.0,6.0,625.0
+9800.0,hlaing,Condo,3,3.0,1.0,2250.0
+36000.0,dagon myothit (north),House,7,5.0,3.0,5625.0
+1590.0,okkalappa south,Apartment,2,2.0,1.0,990.0
+2570.0,thingangkuun,Condo,2,2.0,7.0,990.0
+40000.0,mayangone,House,5,3.0,2.0,4680.0
+18500.0,okkalappa north,House,1,2.0,3.0,1000.0
+11000.0,ahlon,Condo,2,2.0,1.0,2000.0
+2500.0,pazundaung,Apartment,1,1.0,5.0,990.0
+9500.0,yankin,Condo,3,3.0,1.0,1100.0
+5500.0,yankin,House,2,2.0,1.0,2400.0
+8200.0,thaketa,House,1,1.0,2.0,2400.0
+9900.0,botahtaung,Condo,4,1.0,5.0,2000.0
+8800.0,hlaing,Condo,4,4.0,1.0,1834.0
+8200.0,sanchaung,Condo,2,2.0,1.0,1100.0
+4500.0,thanlyin,House,1,1.0,1.0,2400.0
+162000.0,hlaing,House,6,5.0,2.0,16200.0
+8500.0,hlaing,Condo,2,2.0,1.0,1150.0
+25000.0,hlaing,House,6,4.0,2.0,4181.0
+1700.0,sanchaung,Apartment,1,1.0,5.0,687.5
+4800.0,thingangkuun,Apartment,1,1.0,1.0,1500.0
+10500.0,dagon myothit (north),House,4,6.0,3.0,1320.0
+4300.0,dagon myothit (south),Apartment,4,2.0,1.0,1000.0
+1285.0,thaketa,Apartment,2,1.0,5.0,1026.0
+2800.0,okkalappa south,Apartment,2,1.0,2.0,1045.0
+8000.0,hlaing,Condo,3,3.0,1.0,1172.0
+1100.0,dawbon,Apartment,2,1.0,1.0,625.0
+1295.0,tamwe,Apartment,1,1.0,4.0,715.0
+3870.0,okkalappa south,Condo,2,2.0,1.0,918.0
+7200.0,yankin,Condo,2,2.0,1.0,800.0
+1450.0,thaketa,Apartment,1,1.0,3.0,972.0
+12000.0,dagon myothit (north),House,3,3.0,2.5,2520.0
+9900.0,yankin,Condo,2,2.0,1.0,1650.0
+950.0,dawbon,Apartment,1,1.0,3.0,625.0
+1180.0,thingangkuun,Apartment,1,1.0,5.0,625.0
+13000.0,kyeemyindaing,House,4,4.0,4.0,1000.0
+12900.0,dagon myothit (north),House,5,6.0,3.0,1260.0
+5850.0,bahan,Condo,1,1.0,6.0,1500.0
+45000.0,kamaryut,House,6,3.0,2.0,3900.0
+2650.0,okkalappa south,Apartment,2,2.0,4.0,972.0
+1850.0,mayangone,Apartment,1,1.0,1.0,720.0
+45000.0,yankin,House,2,2.0,3.0,2400.0
+14600.0,thaketa,House,4,3.0,3.0,1300.0
+8800.0,dagon myothit (north),House,5,5.0,3.0,2400.0
+4750.0,dagon myothit (north),House,2,2.0,1.5,1200.0
+3650.0,okkalappa south,Condo,2,2.0,4.0,918.0
+11700.0,dagon myothit (north),House,4,4.0,2.5,1200.0
+4400.0,thingangkuun,Condo,2,2.0,1.0,1037.0
+2100.0,okkalappa south,Apartment,2,2.0,2.0,990.0
+2350.0,insein,Condo,2,1.0,7.0,656.0
+28000.0,hlaing,Condo,4,4.0,1.0,4100.0
+2800.0,dagon myothit (north),Condo,2,1.0,5.0,1026.0
+35000.0,dagon myothit (north),House,5,5.0,3.0,4225.0
+3600.0,thingangkuun,Apartment,3,2.0,1.0,972.0
+28500.0,dagon myothit (north),House,4,4.0,2.5,2400.0
+30000.0,okkalappa south,House,2,2.0,1.0,2400.0
+1190.0,thaketa,Apartment,3,1.0,2.0,972.0
+7000.0,dagon myothit (north),House,4,2.0,2.5,1200.0
+1450.0,dawbon,Apartment,1,1.0,1.0,625.0
+2390.0,okkalappa south,Apartment,2,1.0,4.0,918.0
+2450.0,sanchaung,Apartment,1,1.0,3.0,705.0
+2980.0,dagon myothit (seikkan),House,2,2.0,1.0,1200.0
+1330.0,thaketa,Apartment,2,1.0,5.0,972.0
+4800.0,yankin,Condo,1,1.0,22.0,450.0
+8900.0,hlaing,Condo,3,3.0,1.0,1364.0
+36000.0,mayangone,House,5,4.0,2.0,4800.0
+1600.0,thingangkuun,Apartment,2,1.0,5.0,972.0
+60000.0,thingangkuun,House,3,2.0,2.0,5740.0
+1450.0,hlaing,Apartment,1,1.0,5.0,625.0
+35000.0,dagon myothit (north),House,6,6.0,2.5,4800.0
+2700.0,thaketa,Apartment,2,1.0,1.0,1200.0
+5200.0,lanmadaw,Condo,2,1.0,11.0,650.0
+15500.0,yankin,Condo,2,2.0,1.0,961.0
+4500.0,mayangone,Apartment,2,3.0,3.0,1530.0
+5999.0,hlaing,Condo,3,3.0,1.0,1300.0
+1600.0,okkalappa south,Apartment,2,2.0,5.0,972.0
+56000.0,kamaryut,House,7,7.0,3.0,2991.0
+52000.0,okkalappa south,House,4,5.0,2.0,4800.0
+75000.0,bahan,House,4,5.0,2.5,4800.0
+4350.0,thanlyin,Condo,2,2.0,3.0,946.0
+45000.0,thingangkuun,House,6,6.0,3.0,3431.0
+9500.0,hlaing,Condo,3,2.0,1.0,1400.0
+12000.0,hlaing,Condo,3,3.0,1.0,1700.0
+25000.0,thingangkuun,House,7,6.0,2.5,1800.0
+45000.0,insein,House,5,5.0,3.5,2100.0
+1980.0,ahlon,Apartment,1,1.0,1.0,650.0
+17000.0,dagon myothit (north),House,3,2.0,1.0,2400.0
+65000.0,okkalappa south,House,4,4.0,2.0,2400.0
+12000.0,dagon myothit (south),House,5,5.0,2.0,4800.0
+1950.0,tamwe,Apartment,2,1.0,1.0,945.0
+5300.0,thingangkuun,Condo,2,2.0,1.0,1053.0
+21000.0,insein,House,4,4.0,2.0,30000.0
+4800.0,sanchaung,Apartment,2,1.0,4.0,1200.0
+4750.0,kyeemyindaing,Condo,3,2.0,1.0,1375.0
+52000.0,yankin,House,4,2.0,2.0,3240.0
+2000.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+2250.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+12500.0,dagon myothit (north),House,3,1.0,2.0,2400.0
+80000.0,yankin,House,9,7.0,2.0,4800.0
+50000.0,mayangone,House,10,8.0,3.0,4000.0
+2890.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+18000.0,hlaing,Condo,3,2.0,1.0,2000.0
+2980.0,okkalappa south,Apartment,2,1.0,1.0,1026.0
+95000.0,bahan,House,4,4.0,2.5,5082.0
+45000.0,mayangone,House,4,4.0,2.0,3600.0
+6600.0,mayangone,Condo,3,2.0,1.0,1500.0
+3550.0,okkalappa south,Condo,2,2.0,5.0,918.0
+4150.0,thingangkuun,Condo,2,2.0,3.0,918.0
+3600.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+1750.0,okkalappa south,Apartment,2,1.0,1.0,810.0
+4100.0,sanchaung,Condo,2,2.0,7.0,1250.0
+1600.0,okkalappa south,Apartment,1,1.0,1.0,660.0
+8500.0,okkalappa south,House,1,1.0,2.0,1200.0
+4350.0,yankin,Apartment,2,2.0,4.0,1200.0
+65500.0,mayangone,House,5,7.0,2.0,4500.0
+17540.0,bahan,Condo,3,3.0,20.0,1754.0
+27500.0,mayangone,House,5,5.0,3.0,3025.0
+38500.0,thingangkuun,House,4,5.0,2.0,3000.0
+8500.0,kamaryut,Condo,3,3.0,3.0,1600.0
+3550.0,okkalappa south,Condo,2,2.0,5.0,918.0
+55000.0,kamaryut,House,6,3.0,2.0,7410.0
+8900.0,mayangone,Condo,3,3.0,1.0,1160.0
+9800.0,dagon myothit (north),House,2,3.0,3.0,1200.0
+56000.0,thingangkuun,House,3,2.0,2.0,5740.0
+8200.0,ahlon,Condo,3,4.0,4.0,1800.0
+4150.0,okkalappa south,Condo,2,2.0,1.0,972.0
+16000.0,ahlon,Condo,4,4.0,1.0,2360.0
+55000.0,thingangkuun,House,4,3.0,2.0,6007.0
+3900.0,thingangkuun,Condo,2,2.0,1.0,900.0
+8500.0,yankin,Condo,3,3.0,1.0,1198.0
+2200.0,mingalartaungnyunt,Apartment,2,1.0,1.0,600.0
+17500.0,yankin,House,5,4.0,2.5,2500.0
+10000.0,dagon myothit (north),House,4,2.0,2.0,2400.0
+2700.0,tamwe,Apartment,2,1.0,3.0,1224.0
+2720.0,okkalappa south,Condo,1,2.0,8.0,935.0
+12000.0,tamwe,Condo,3,3.0,1.0,2160.0
+2750.0,okkalappa south,Apartment,2,2.0,5.0,972.0
+35000.0,thaketa,House,4,3.0,2.0,4464.0
+35000.0,mayangone,House,4,4.0,2.0,6534.0
+5200.0,mayangone,Condo,2,2.0,1.0,1026.0
+3200.0,dagon myothit (north),Apartment,1,1.0,1.0,918.0
+1980.0,sanchaung,Apartment,1,1.0,6.0,1250.0
+6300.0,sanchaung,Condo,2,2.0,2.0,960.0
+33000.0,yankin,House,6,4.0,5.0,2850.0
+7500.0,dagon myothit (north),House,6,3.0,2.0,2400.0
+15850.0,dagon myothit (north),House,5,4.0,2.5,2400.0
+3350.0,ahlon,Apartment,2,1.0,1.0,900.0
+18000.0,insein,House,4,2.0,2.0,4275.0
+5990.0,sanchaung,Condo,1,2.0,7.0,2000.0
+4000.0,tamwe,Apartment,3,2.0,1.0,1250.0
+73000.0,hlaing,House,5,2.0,2.0,4200.0
+2300.0,okkalappa south,Condo,1,1.0,7.0,900.0
+3500.0,pazundaung,Apartment,2,1.0,1.0,900.0
+4550.0,okkalappa south,Apartment,2,2.0,0.5,972.0
+1550.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+3600.0,thingangkuun,Condo,1,1.0,7.0,1188.0
+33000.0,dagon myothit (north),House,4,3.0,2.0,8100.0
+3700.0,yankin,Apartment,2,1.0,1.0,1000.0
+65000.0,mayangone,House,5,3.0,2.0,5600.0
+1970.0,thaketa,Apartment,2,2.0,0.5,825.0
+2090.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+9200.0,hlaing,Condo,3,3.0,1.0,1455.0
+4500.0,tamwe,Condo,2,1.0,5.0,1512.0
+2200.0,thingangkuun,Apartment,3,1.0,1.0,1026.0
+6600.0,yankin,Condo,2,2.0,1.0,798.0
+5650.0,thanlyin,House,3,2.0,2.5,1244.0
+650.0,dawbon,Apartment,1,1.0,6.0,625.0
+2370.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+1450.0,okkalappa south,Apartment,2,1.0,6.0,972.0
+3400.0,dagon myothit (east),House,4,1.0,2.0,1200.0
+7200.0,yankin,Condo,3,2.0,1.0,1750.0
+1000.0,tamwe,Apartment,1,1.0,5.0,900.0
+2780.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+3500.0,mingalartaungnyunt,Condo,2,2.0,1.0,1064.0
+10000.0,sanchaung,Condo,2,2.0,1.0,1200.0
+970.0,thingangkuun,Apartment,1,1.0,6.0,625.0
+16000.0,thingangkuun,House,2,2.0,1.0,3600.0
+3100.0,okkalappa south,Condo,2,1.0,1.0,1026.0
+1750.0,sanchaung,Apartment,1,1.0,3.0,687.5
+110000.0,bahan,House,5,5.0,3.0,2600.0
+1180.0,thingangkuun,Apartment,1,1.0,5.0,625.0
+11000.0,bahan,Condo,3,2.0,3.0,2040.0
+1150.0,thaketa,Apartment,2,1.0,5.0,972.0
+4500.0,dagon myothit (north),Apartment,1,1.0,1.0,972.0
+930.0,dawbon,Apartment,1,1.0,6.0,625.0
+1450.0,thingangkuun,Apartment,2,1.0,3.0,972.0
+2390.0,okkalappa south,Apartment,2,1.0,4.0,918.0
+9800.0,botahtaung,Condo,3,3.0,8.0,1470.0
+3500.0,dagon myothit (north),Apartment,2,1.0,1.0,960.0
+5200.0,lanmadaw,Condo,2,2.0,1.0,587.0
+2600.0,okkalappa south,Condo,2,1.0,4.0,756.0
+22000.0,kamaryut,Condo,3,3.0,1.0,1642.0
+3400.0,okkalappa south,Condo,1,1.0,5.0,918.0
+2520.0,okkalappa south,Apartment,2,1.0,3.0,918.0
+9000.0,pazundaung,Condo,1,2.0,1.0,1400.0
+23000.0,dagon myothit (north),House,5,5.0,2.0,2400.0
+3300.0,hlaing,Apartment,1,1.0,0.5,800.0
+850.0,mayangone,Apartment,1,1.0,3.0,575.0
+18000.0,mingalartaungnyunt,Condo,3,2.0,1.0,1582.0
+6500.0,okkalappa south,House,4,1.0,2.0,1200.0
+24500.0,kamaryut,Condo,3,2.0,16.0,1650.0
+10500.0,dagon myothit (east),House,3,3.0,2.0,2850.0
+2760.0,okkalappa south,Apartment,1,1.0,1.0,972.0
+770.0,mayangone,Apartment,1,1.0,5.0,625.0
+23000.0,mayangone,House,4,1.0,2.0,2400.0
+2200.0,sanchaung,Apartment,2,1.0,7.0,900.0
+1170.0,okkalappa south,Apartment,1,1.0,6.0,972.0
+5700.0,sanchaung,Condo,3,2.0,6.0,1800.0
+2850.0,okkalappa south,Apartment,2,1.0,2.0,972.0
+1510.0,sanchaung,Apartment,1,1.0,6.0,625.0
+9500.0,yankin,Condo,2,2.0,1.0,1168.0
+40000.0,yankin,House,5,3.0,2.0,2400.0
+1180.0,thaketa,Apartment,2,1.0,5.0,990.0
+5440.0,tamwe,Condo,2,2.0,1.0,777.0
+1335.0,mayangone,Apartment,1,1.0,4.0,630.0
+1650.0,dagon myothit (south),Apartment,3,1.0,3.0,1000.0
+50000.0,mayangone,House,6,6.0,2.0,6400.0
+200000.0,bahan,House,5,7.0,2.0,16000.0
+35000.0,mingalartaungnyunt,House,4,4.0,2.0,1500.0
+14700.0,dagon myothit (north),House,5,8.0,3.0,1200.0
+2580.0,thaketa,Condo,1,1.0,7.0,972.0
+99522.0,kamaryut,House,4,4.0,1.0,5529.0
+1250.0,thingangkuun,Apartment,1,1.0,1.0,625.0
+150000.0,yankin,House,4,5.0,4.5,7000.0
+12000.0,hlaing,Condo,3,3.0,1.0,2300.0
+3800.0,lanmadaw,Condo,3,1.0,1.0,1250.0
+1339.0,thingangkuun,Apartment,1,1.0,3.0,625.0
+1360.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+6500.0,sanchaung,Condo,3,2.0,5.0,1680.0
+12600.0,dagon myothit (north),House,4,5.0,1.0,1800.0
+1500.0,yankin,Apartment,1,1.0,1.0,900.0
+1600.0,okkalappa south,Apartment,1,1.0,1.0,687.5
+2400.0,yankin,Apartment,2,2.0,1.0,1050.0
+1450.0,kamaryut,Apartment,2,1.0,4.0,625.0
+8700.0,hlaing,Condo,3,3.0,1.0,1259.0
+2950.0,dagon myothit (south),House,6,2.0,2.0,1200.0
+183700.0,hlaing,House,6,5.0,2.0,18370.0
+37000.0,mayangone,House,6,4.0,2.0,6110.0
+4050.0,dagon myothit (south),House,3,2.0,2.0,1200.0
+20000.0,hlaing,House,5,5.0,2.0,5400.0
+48000.0,thingangkuun,House,5,5.0,2.0,2600.0
+5800.0,tamwe,Apartment,4,2.0,1.0,1650.0
+15500.0,hlaing,Condo,3,3.0,1.0,2150.0
+1200.0,tamwe,Apartment,1,1.0,6.0,650.0
+35000.0,yankin,House,3,3.0,2.5,2400.0
+25.0,lanmadaw,Condo,2,2.0,7.0,945.0
+59000.0,mayangone,House,4,3.0,2.0,9250.0
+3000.0,dagon myothit (north),Apartment,2,1.0,3.0,962.5
+9500.0,mayangone,Condo,2,2.0,1.0,950.0
+22000.0,thingangkuun,House,3,2.0,2.0,3600.0
+19000.0,mayangone,Condo,3,3.0,1.0,1490.0
+34000.0,ahlon,Condo,4,4.0,1.0,1889.0
+6445.0,yankin,Condo,3,2.0,2.0,1289.0
+38000.0,dagon myothit (north),House,10,9.0,3.0,5400.0
+19500.0,dagon myothit (north),House,4,3.0,3.0,2400.0
+65000.0,insein,House,7,5.0,2.0,10000.0
+2150.0,okkalappa south,Apartment,2,1.0,5.0,918.0
+1250.0,thaketa,Apartment,2,1.0,6.0,972.0
+890.0,thingangkuun,Apartment,1,1.0,5.0,625.0
+5200.0,kamaryut,Condo,2,2.0,8.0,1300.0
+6500.0,thingangkuun,Condo,3,2.0,1.0,1450.0
+3450.0,thanlyin,Condo,1,1.0,6.0,651.0
+2050.0,ahlon,Apartment,1,1.0,4.0,825.0
+2300.0,tamwe,Apartment,2,1.0,3.0,900.0
+9000.0,dagon myothit (north),House,4,3.0,2.5,1200.0
+3600.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+1750.0,thaketa,Apartment,2,1.0,1.0,972.0
+5700.0,sanchaung,Condo,3,2.0,6.0,1800.0
+55000.0,bahan,House,6,7.0,3.5,5600.0
+11200.0,thingangkuun,House,2,2.0,2.0,1200.0
+15000.0,yankin,Condo,3,3.0,1.0,1520.0
+18400.0,yankin,Condo,3,2.0,12.0,1669.0
+150000.0,lanmadaw,House,5,8.0,5.0,3136.0
+20000.0,okkalappa south,House,2,2.0,2.0,2400.0
+11000.0,dagon myothit (north),House,1,1.0,1.0,2400.0
+18400.0,yankin,Condo,3,2.0,12.0,1669.0
+6450.0,thingangkuun,Condo,2,2.0,1.0,2350.0
+730.0,dawbon,Apartment,1,1.0,4.0,687.5
+2880.0,okkalappa south,Apartment,2,2.0,3.0,972.0
+6000.0,kamaryut,Condo,1,1.0,1.0,1170.0
+15000.0,dagon myothit (north),House,6,5.0,3.0,2400.0
+17000.0,dagon myothit (north),House,4,4.0,2.5,2160.0
+2850.0,thaketa,Condo,2,2.0,8.0,1026.0
+67000.0,kamaryut,House,5,5.0,3.0,4007.0
+7200.0,bahan,Condo,3,2.0,1.0,1100.0
+8900.0,dagon myothit (north),House,3,4.0,2.0,1320.0
+4800.0,tamwe,Condo,3,2.0,3.0,1250.0
+8900.0,mayangone,Condo,3,3.0,1.0,1160.0
+18000.0,yankin,House,3,2.0,2.0,1760.0
+20500.0,mayangone,House,5,4.0,2.0,4240.0
+75000.0,bahan,House,6,6.0,3.0,4200.0
+2250.0,okkalappa south,Apartment,3,1.0,5.0,1265.0
+9000.0,mingalartaungnyunt,Condo,1,2.0,10.0,1750.0
+8300.0,yankin,Condo,3,3.0,1.0,1298.0
+1820.0,sanchaung,Apartment,2,1.0,2.0,625.0
+2500.0,lanmadaw,Apartment,1,1.0,5.0,625.0
+2845.0,okkalappa south,Apartment,2,1.0,1.0,1026.0
+6000.0,bahan,Condo,2,2.0,1.0,1000.0
+34500.0,okkalappa south,House,5,5.0,2.0,2400.0
+6500.0,hlaing,Condo,2,2.0,1.0,2400.0
+13000.0,dagon myothit (north),House,3,2.0,2.0,1200.0
+4800.0,okkalappa south,Apartment,2,1.0,0.5,972.0
+3850.0,dagon myothit (south),House,3,2.0,2.0,1200.0
+5550.0,okkalappa south,House,2,2.0,2.0,1200.0
+3450.0,dagon myothit (seikkan),Condo,4,2.0,1.0,1200.0
+80000.0,yankin,House,6,5.0,2.0,4200.0
+30000.0,okkalappa south,House,3,2.0,1.0,2400.0
+1530.0,thaketa,Apartment,2,1.0,5.0,1045.0
+11000.0,mayangone,House,4,3.0,2.0,5671.0
+1860.0,thaketa,Apartment,2,1.0,2.0,972.0
+36000.0,mayangone,House,4,4.0,2.0,4967.0
+4950.0,kyeemyindaing,Condo,2,2.0,1.0,1250.0
+23000.0,dagon myothit (north),House,3,1.0,1.0,4800.0
+7500.0,sanchaung,Condo,3,2.0,2.0,1680.0
+55000.0,thingangkuun,House,3,3.0,3.5,4664.0
+1200.0,tamwe,Apartment,2,1.0,6.0,900.0
+1490.0,tamwe,Apartment,2,1.0,4.0,742.5
+8300.0,yankin,Condo,3,3.0,1.0,1289.0
+11500.0,lanmadaw,Condo,4,4.0,1.0,1439.0
+5200.0,hlaing,Condo,2,2.0,1.0,900.0
+7300.0,sanchaung,Condo,2,2.0,1.0,1065.0
+6900.0,kyauktada,Condo,1,1.0,4.0,1500.0
+1650.0,thaketa,Apartment,2,1.0,2.0,972.0
+35000.0,mayangone,House,5,5.0,3.5,4200.0
+6500.0,thingangkuun,Condo,2,1.0,1.0,900.0
+1360.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+14300.0,kamaryut,House,1,2.0,3.0,1170.0
+1650.0,sanchaung,Apartment,2,1.0,6.0,625.0
+30048.0,dagon,Condo,7,7.0,1.0,5008.0
+6767.0,yankin,Condo,3,3.0,1.0,1289.0
+35000.0,thingangkuun,House,4,4.0,2.0,3600.0
+1250.0,dawbon,Apartment,1,1.0,1.0,625.0
+6500.0,sanchaung,Condo,4,2.0,7.0,2000.0
+18000.0,mayangone,House,3,3.0,2.0,2400.0
+18000.0,mayangone,House,2,2.0,1.0,4964.0
+7500.0,dagon myothit (north),House,4,3.0,2.0,1500.0
+4300.0,tamwe,Condo,2,2.0,1.0,900.0
+50000.0,mayangone,House,4,4.0,2.0,4500.0
+6600.0,mayangone,Condo,3,2.0,8.0,1500.0
+3850.0,okkalappa south,Apartment,3,2.0,1.0,972.0
+16000.0,hlaing,Condo,6,3.0,1.0,2015.0
+95000.0,kamaryut,House,7,7.0,3.0,5445.0
+2100.0,okkalappa north,Apartment,2,1.0,3.0,972.0
+26000.0,tamwe,House,4,1.0,2.0,1860.0
+5400.0,hlaing,Condo,2,2.0,10.0,983.0
+18000.0,dagon myothit (north),House,4,5.0,2.0,2400.0
+20000.0,dagon myothit (south),House,5,2.0,2.0,2400.0
+3550.0,okkalappa south,Condo,2,1.0,1.0,1026.0
+5990.0,sanchaung,Condo,2,2.0,7.0,2000.0
+22000.0,okkalappa south,House,3,2.0,2.0,1800.0
+13500.0,dagon myothit (south),House,4,2.0,2.0,3600.0
+11000.0,thingangkuun,House,2,2.0,2.0,1200.0
+35000.0,dagon myothit (north),House,6,6.0,2.5,4800.0
+8700.0,sanchaung,Apartment,1,1.0,1.0,1566.0
+5000.0,hlaing,Apartment,2,2.0,1.0,1040.0
+4550.0,botahtaung,Apartment,2,1.0,1.0,1200.0
+1700.0,dagon myothit (south),Apartment,2,2.0,1.0,838.0
+20500.0,mayangone,House,3,4.0,2.0,1600.0
+12500.0,dagon myothit (north),House,4,5.0,2.5,2400.0
+1680.0,thingangkuun,Apartment,2,1.0,5.0,1026.0
+50000.0,dagon myothit (north),House,5,5.0,2.0,9600.0
+6000.0,sanchaung,Apartment,3,1.0,1.0,750.0
+17500.0,thingangkuun,House,6,1.0,2.0,7200.0
+2900.0,okkalappa south,Condo,1,2.0,6.0,825.0
+1350.0,thaketa,Apartment,2,1.0,6.0,1026.0
+1750.0,sanchaung,Apartment,1,1.0,5.0,625.0
+1780.0,kamaryut,Apartment,1,1.0,4.0,625.0
+2800.0,dagon myothit (seikkan),Condo,3,2.0,14.0,846.0
+2695.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+1685.0,sanchaung,Apartment,1,1.0,5.0,687.5
+2150.0,thanlyin,Condo,1,1.0,2.0,411.0
+2700.0,okkalappa south,Condo,2,1.0,4.0,935.0
+1790.0,thaketa,Apartment,2,1.0,3.0,972.0
+6400.0,sanchaung,Condo,2,2.0,1.0,1056.0
+18000.0,hlaing,House,5,1.0,2.0,2450.0
+2300.0,sanchaung,Apartment,2,1.0,1.0,750.0
+1400.0,tamwe,Apartment,1,1.0,4.0,650.0
+40000.0,dagon myothit (north),House,1,2.0,2.0,9583.0
+2884.0,okkalappa south,Apartment,2,2.0,3.0,972.0
+35000.0,sanchaung,House,3,3.0,2.0,2400.0
+5500.0,mayangone,Condo,2,1.0,1.0,1100.0
+8500.0,dagon myothit (north),House,3,2.0,2.0,1200.0
+25000.0,sanchaung,House,3,3.0,2.0,1625.0
+45000.0,mayangone,House,4,4.0,2.0,4500.0
+1450.0,thaketa,Apartment,1,1.0,1.0,625.0
+855.0,mayangone,Apartment,1,1.0,5.0,720.0
+7200.0,pazundaung,Condo,3,2.0,5.0,1100.0
+16000.0,ahlon,Condo,4,4.0,1.0,2360.0
+35000.0,dagon myothit (north),House,4,3.0,1.0,6603.0
+1400.0,dawbon,Apartment,1,1.0,1.0,750.0
+13500.0,tamwe,Condo,3,3.0,1.0,1950.0
+82000.0,yankin,House,5,5.0,3.0,3500.0
+3600.0,dagon myothit (north),House,3,1.0,1.0,1200.0
+2500.0,hlaing,Apartment,2,1.0,3.0,875.0
+2300.0,okkalappa south,Apartment,3,1.0,5.0,1210.0
+8070.0,kamaryut,Condo,4,4.0,1.0,1900.0
+10000.0,ahlon,Condo,4,4.0,3.0,2400.0
+6600.0,yankin,Condo,2,2.0,1.0,942.0
+6300.0,thanlyin,Condo,3,2.0,2.0,1277.0
+11500.0,yankin,Condo,3,2.0,1.0,1685.0
+13500.0,mayangone,Condo,3,3.0,1.0,1506.0
+22000.0,yankin,House,7,6.0,2.0,4125.0
+7950.0,dagon myothit (north),House,7,3.0,3.0,1200.0
+4800.0,sanchaung,Condo,3,2.0,4.0,1280.0
+7000.0,yankin,Condo,2,1.0,14.0,780.0
+1200.0,tamwe,Apartment,1,1.0,3.0,750.0
+2700.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+3300.0,pabedan,Apartment,3,1.0,3.0,900.0
+12000.0,thanlyin,House,2,2.0,2.0,4000.0
+9800.0,kamaryut,Condo,4,2.0,4.0,1855.0
+2580.0,thaketa,Condo,1,1.0,7.0,972.0
+12410.0,ahlon,Condo,2,2.0,1.0,1654.0
+90000.0,mayangone,House,5,4.0,2.0,8363.0
+1590.0,thaketa,Apartment,2,1.0,3.0,918.0
+75000.0,yankin,House,7,7.0,4.0,4200.0
+9000.0,yankin,Condo,3,3.0,1.0,1499.0
+4450.0,lanmadaw,Condo,2,2.0,1.0,528.0
+7950.0,dagon myothit (north),House,7,3.0,3.0,1200.0
+9900.0,hlaing,Condo,3,3.0,1.0,1505.0
+2190.0,sanchaung,Apartment,2,1.0,2.0,625.0
+3780.0,okkalappa south,Condo,2,2.0,1.0,918.0
+38000.0,thingangkuun,House,5,5.0,2.0,4225.0
+2750.0,okkalappa south,Apartment,2,1.0,1.0,1026.0
+12000.0,okkalappa south,House,3,1.0,2.0,1200.0
+15000.0,dagon myothit (south),House,4,5.0,2.0,6400.0
+63000.0,mayangone,House,5,5.0,2.0,7700.0
+6500.0,hlaing,Condo,2,2.0,1.0,2274.0
+3290.0,okkalappa south,Condo,1,1.0,4.0,918.0
+24840.0,botahtaung,Condo,7,7.0,8.0,3600.0
+21500.0,mayangone,House,3,3.0,2.0,2400.0
+9900.0,yankin,Condo,2,2.0,1.0,1650.0
+6500.0,hlaing,Apartment,2,2.0,1.0,1610.0
+21500.0,mayangone,Condo,4,4.0,1.0,1955.0
+3800.0,okkalappa south,Condo,2,2.0,5.0,1026.0
+4200.0,sanchaung,Condo,3,2.0,6.0,1300.0
+65000.0,hlaingtharya,House,5,4.0,2.5,9375.0
+5000.0,tamwe,Apartment,2,1.0,2.0,1600.0
+9800.0,hlaing,Condo,3,3.0,1.0,2300.0
+2735.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+1550.0,thingangkuun,Apartment,1,1.0,3.0,625.0
+3500.0,pazundaung,Condo,3,2.0,9.0,1200.0
+11800.0,dagon myothit (north),House,3,2.0,2.0,2400.0
+20000.0,kyeemyindaing,House,4,1.0,1.5,1250.0
+25000.0,hlaing,House,3,3.0,3.5,4903.0
+2850.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+6900.0,thaketa,House,3,2.0,2.0,1200.0
+1860.0,hlaing,Apartment,1,1.0,1.0,625.0
+2050.0,okkalappa south,Apartment,2,1.0,3.0,1026.0
+2790.0,okkalappa north,Condo,2,2.0,7.0,1045.0
+3200.0,tamwe,Condo,2,2.0,1.0,1200.0
+9400.0,thingangkuun,Condo,2,2.0,1.0,1059.0
+3150.0,tamwe,Apartment,2,1.0,1.0,825.0
+1585.0,thaketa,Apartment,1,1.0,1.0,750.0
+33000.0,dagon myothit (north),House,4,2.0,2.0,2400.0
+7000.0,thingangkuun,House,3,3.0,2.0,1325.0
+7000.0,dagon myothit (north),House,4,2.0,3.0,1200.0
+2800.0,tamwe,Apartment,3,1.0,4.0,1375.0
+180000.0,mayangone,House,6,6.0,2.0,11700.0
+3780.0,okkalappa south,Condo,2,2.0,1.0,918.0
+1200.0,thingangkuun,Apartment,1,1.0,5.0,625.0
+12000.0,dagon,Condo,3,2.0,2.0,1350.0
+9000.0,yankin,Condo,3,3.0,1.0,2100.0
+32500.0,okkalappa south,House,5,5.0,2.5,2400.0
+12000.0,okkalappa south,House,8,3.0,3.5,1200.0
+4500.0,hlaing,Apartment,2,3.0,4.0,1496.0
+3500.0,tamwe,Condo,1,1.0,8.0,750.0
+920.0,thingangkuun,Apartment,2,1.0,4.0,625.0
+4800.0,kamaryut,Apartment,3,2.0,2.0,1500.0
+1750.0,sanchaung,Apartment,1,1.0,5.0,625.0
+15700.0,dagon myothit (north),House,5,2.0,2.0,2400.0
+4450.0,okkalappa south,Apartment,3,2.0,1.0,972.0
+10500.0,dagon myothit (east),House,1,2.0,2.0,2850.0
+2100.0,thaketa,Apartment,2,1.0,1.0,1045.0
+5500.0,mayangone,Condo,2,2.0,1.0,1150.0
+2900.0,hlaing,Apartment,4,2.0,4.0,1000.0
+8500.0,yankin,Condo,3,3.0,1.0,1800.0
+13500.0,okkalappa south,House,5,4.0,3.0,1200.0
+60000.0,tamwe,House,6,5.0,2.0,6600.0
+125000.0,bahan,House,4,4.0,2.0,4800.0
+9900.0,hlaing,Condo,3,3.0,1.0,1505.0
+3200.0,thingangkuun,Apartment,3,2.0,1.0,800.0
+5000.0,hlaing,Condo,2,2.0,1.0,855.0
+1380.0,mayangone,Apartment,1,1.0,1.0,625.0
+1650.0,ahlon,Apartment,1,1.0,1.0,625.0
+12800.0,bahan,Condo,2,2.0,1.0,895.0
+8150.0,dagon myothit (south),House,3,2.0,2.0,2400.0
+1680.0,thingangkuun,Apartment,1,1.0,4.0,1026.0
+1600.0,sanchaung,Apartment,1,1.0,6.0,810.0
+45000.0,thingangkuun,House,5,3.0,4.0,2700.0
+18000.0,thaketa,House,4,3.0,2.0,3600.0
+1900.0,kamaryut,Apartment,1,1.0,1.0,625.0
+5400.0,thingangkuun,House,3,2.0,2.0,1508.0
+95000.0,bahan,House,4,4.0,2.5,4620.0
+1000.0,tamwe,Apartment,1,1.0,4.0,750.0
+7900.0,yankin,Condo,3,3.0,1.0,1298.0
+2890.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+1285.0,thaketa,Apartment,2,1.0,5.0,1026.0
+21500.0,kamaryut,Condo,2,2.0,9.0,1885.0
+2390.0,okkalappa south,Apartment,2,1.0,4.0,918.0
+1270.0,thaketa,Apartment,2,1.0,6.0,1026.0
+68000.0,yankin,House,4,4.0,2.0,6800.0
+7000.0,tamwe,Condo,3,3.0,1.0,1128.0
+11700.0,dagon myothit (north),House,4,3.0,2.5,1000.0
+4999.0,hlaing,Condo,2,2.0,1.0,983.0
+33800.0,mayangone,House,8,5.0,3.5,5600.0
+35000.0,dagon myothit (north),House,4,4.0,2.0,6643.0
+12900.0,dagon myothit (north),House,5,5.0,3.0,1260.0
+940.0,tamwe,Apartment,1,1.0,5.0,750.0
+1050.0,tamwe,Apartment,1,1.0,4.0,625.0
+5330.0,thingangkuun,Condo,2,2.0,6.0,1026.0
+4500.0,sanchaung,Condo,1,1.0,7.0,1300.0
+8800.0,yankin,Condo,2,2.0,1.0,1680.0
+7500.0,kamaryut,Condo,3,3.0,3.0,2000.0
+3290.0,okkalappa south,Condo,1,1.0,5.0,918.0
+5000.0,dagon myothit (north),House,1,2.0,1.0,1750.0
+1650.0,pazundaung,Apartment,1,1.0,8.0,1260.0
+4280.0,okkalappa south,Condo,2,2.0,4.0,918.0
+5900.0,thingangkuun,House,3,2.0,2.0,1508.0
+37000.0,thingangkuun,House,4,3.0,3.0,1988.0
+8500.0,mingalartaungnyunt,Condo,2,2.0,7.0,1750.0
+37500.0,mayangone,House,5,5.0,2.0,4900.0
+1685.0,sanchaung,Apartment,1,1.0,4.0,625.0
+19500.0,sanchaung,House,4,4.0,2.0,1250.0
+2700.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+7200.0,yankin,Condo,3,2.0,6.0,1750.0
+8300.0,dagon myothit (north),House,3,1.0,2.0,1320.0
+10600.0,dagon myothit (north),House,4,3.0,2.0,1200.0
+43000.0,mayangone,House,5,4.0,2.0,4800.0
+1950.0,sanchaung,Apartment,1,1.0,2.0,625.0
+10000.0,mayangone,Condo,3,4.0,1.0,2380.0
+1200.0,tamwe,Apartment,2,1.0,6.0,900.0
+1500.0,hlaing,Apartment,2,1.0,4.0,750.0
+27000.0,yankin,House,4,3.0,2.0,4600.0
+2100.0,okkalappa south,Apartment,2,2.0,3.0,990.0
+10600.0,dagon myothit (north),House,4,2.0,2.5,1200.0
+2420.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+13500.0,okkalappa south,House,3,3.0,2.0,1200.0
+25000.0,okkalappa south,House,3,2.0,2.0,2400.0
+8500.0,sanchaung,Condo,2,2.0,1.0,787.0
+55000.0,thingangkuun,House,5,5.0,2.0,5904.0
+28500.0,hlaing,House,4,3.0,2.0,3900.0
+12000.0,ahlon,Condo,3,3.0,1.0,1950.0
+1850.0,tamwe,Apartment,1,1.0,3.0,1020.0
+980.0,thingangkuun,Apartment,1,1.0,5.0,750.0
+4300.0,sanchaung,Condo,2,2.0,6.0,1250.0
+2680.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+10800.0,yankin,Condo,2,2.0,1.0,1248.0
+15000.0,okkalappa south,House,6,4.0,2.0,2400.0
+5000.0,yankin,Condo,4,2.0,1.0,1650.0
+12500.0,dagon myothit (north),House,3,2.0,1.5,2400.0
+68000.0,hlaingtharya,House,5,4.0,3.0,9375.0
+2500.0,thanlyin,Condo,1,1.0,6.0,1.0
+15700.0,dagon myothit (north),House,5,4.0,3.0,1200.0
+3600.0,thingangkuun,Condo,2,2.0,3.0,1026.0
+32000.0,yankin,House,5,5.0,3.5,2400.0
+4300.0,sanchaung,Condo,2,2.0,1.0,1250.0
+5200.0,yankin,Condo,1,1.0,26.0,517.0
+1860.0,thaketa,Apartment,1,1.0,2.0,972.0
+25000.0,dagon,Condo,7,5.0,1.0,5008.0
+3950.0,sanchaung,Apartment,2,1.0,1.0,1125.0
+11800.0,ahlon,Condo,4,4.0,1.0,2600.0
+1800.0,tamwe,Apartment,1,2.0,4.0,750.0
+1690.0,okkalappa south,Apartment,3,1.0,6.0,999.0
+4899.0,botahtaung,Apartment,2,1.0,1.0,795.0
+15300.0,dagon myothit (north),House,5,4.0,4.0,1200.0
+2350.0,sanchaung,Apartment,2,1.0,4.0,750.0
+14800.0,hlaing,Condo,3,3.0,14.0,1500.0
+1860.0,thaketa,Apartment,1,1.0,3.0,972.0
+8500.0,mingalartaungnyunt,Condo,3,3.0,1.0,1600.0
+2500.0,thanlyin,Condo,1,1.0,5.0,484.0
+8500.0,mayangone,Condo,2,2.0,1.0,1000.0
+1800.0,okkalappa south,Apartment,2,1.0,6.0,1242.0
+16000.0,hlaing,Condo,4,4.0,1.0,2015.0
+1250.0,thingangkuun,Apartment,1,1.0,1.0,6265625.0
+2480.0,thingangkuun,Condo,1,1.0,4.0,771.0
+1700.0,thingangkuun,Apartment,2,1.0,3.0,972.0
+104728.0,hlaing,House,5,5.0,2.0,8056.0
+17500.0,dagon myothit (north),House,4,4.0,3.0,1500.0
+2200.0,hlaing,Apartment,2,1.0,1.0,720.0
+2650.0,insein,Condo,2,1.0,3.0,1056.0
+6500.0,okkalappa south,House,4,1.0,2.0,1200.0
+12000.0,shwepyithar,House,6,3.0,2.0,4900.0
+11500.0,dagon myothit (north),House,4,4.0,3.0,1320.0
+3300.0,pabedan,Apartment,3,2.0,4.0,900.0
+9500.0,yankin,Condo,3,3.0,1.0,1080.0
+2520.0,okkalappa south,Apartment,2,1.0,4.0,918.0
+7800.0,thingangkuun,Condo,3,3.0,1.0,1974.0
+3950.0,thingangkuun,Condo,2,2.0,6.0,918.0
+9500.0,insein,House,3,1.0,1.0,2400.0
+2900.0,okkalappa south,Apartment,2,1.0,1.0,1026.0
+2500.0,okkalappa south,Apartment,2,1.0,2.0,972.0
+1450.0,thaketa,Apartment,2,1.0,6.0,972.0
+1620.0,thaketa,Apartment,1,1.0,2.0,1026.0
+4500.0,mingaladon,Condo,3,2.0,6.0,1160.0
+7500.0,kamaryut,Condo,3,3.0,1.0,2000.0
+9500.0,yankin,Condo,2,2.0,1.0,1168.0
+1500.0,hlaing,Apartment,1,1.0,1.0,625.0
+4400.0,bahan,Apartment,4,2.0,3.0,1540.0
+11500.0,hlaing,Condo,3,3.0,2.0,2200.0
+13000.0,okkalappa north,House,2,1.0,2.0,2400.0
+6500.0,tamwe,Condo,2,2.0,5.0,1375.0
+12500.0,yankin,Condo,3,2.0,1.0,1650.0
+35000.0,mayangone,House,6,5.0,3.0,5445.0
+1950.0,tamwe,Apartment,1,1.0,2.0,900.0
+1380.0,tamwe,Apartment,2,2.0,6.0,1250.0
+920.0,thingangkuun,Apartment,1,1.0,6.0,625.0
+1370.0,mayangone,Apartment,1,1.0,2.0,625.0
+4700.0,kyeemyindaing,Condo,3,3.0,4.0,1400.0
+25000.0,hlaing,House,5,3.0,3.0,2275.0
+27000.0,yankin,House,7,6.0,2.0,4125.0
+4500.0,thanlyin,Condo,2,1.0,1.0,938.0
+2600.0,okkalappa south,Apartment,2,2.0,6.0,1400.0
+60000.0,mayangone,House,3,3.0,1.5,6200.0
+2950.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+23.0,hlaing,Condo,2,2.0,1.0,900.0
+25000.0,dagon myothit (north),House,2,1.0,2.0,2400.0
+14000.0,okkalappa north,House,4,3.0,2.0,5250.0
+2900.0,insein,Condo,3,2.0,8.0,1224.0
+3800.0,okkalappa south,Condo,2,2.0,5.0,1026.0
+8300.0,dagon myothit (north),House,3,3.0,2.5,1320.0
+19800.0,okkalappa south,House,4,5.0,2.0,1800.0
+4500.0,tamwe,Condo,2,2.0,7.0,1444.0
+4800.0,dagon myothit (north),House,2,2.0,2.0,1320.0
+24000.0,mayangone,House,4,3.0,2.0,5000.0
+5300.0,tamwe,Condo,3,3.0,1.0,1500.0
+5500.0,bahan,Condo,2,3.0,1.0,980.0
+4700.0,yankin,Condo,1,1.0,8.0,450.0
+4450.0,okkalappa south,Apartment,2,2.0,1.0,972.0
+2400.0,tamwe,Apartment,1,1.0,2.0,900.0
+30000.0,okkalappa south,House,5,5.0,2.0,3600.0
+1100.0,okkalappa south,Apartment,2,1.0,4.0,1026.0
+2400.0,yankin,Apartment,2,1.0,1.0,1050.0
+20000.0,ahlon,House,5,4.0,2.0,1800.0
+1600.0,tamwe,Apartment,2,1.0,1.0,840.0
+23000.0,kamaryut,Condo,4,3.0,1.0,2000.0
+1350.0,sanchaung,Apartment,1,1.0,6.0,625.0
+3000.0,thingangkuun,Apartment,1,1.0,1.0,680.4
+3600.0,thingangkuun,Apartment,4,2.0,6.0,1800.0
+6500.0,hlaingtharya,House,10,10.0,3.0,1000.0
+4500.0,dagon myothit (north),Apartment,2,2.0,1.0,1836.0
+1900.0,thingangkuun,Apartment,1,1.0,1.0,625.0
+7000.0,thingangkuun,House,3,3.0,2.0,1325.0
+7500.0,kamaryut,Condo,3,3.0,3.0,2000.0
+26000.0,dagon myothit (south),House,4,3.0,1.0,5700.0
+23000.0,mayangone,House,4,3.0,2.5,2400.0
+2350.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+25900.0,thingangkuun,House,4,2.0,2.0,2450.0
+2450.0,okkalappa south,Apartment,2,2.0,1.0,972.0
+2060.0,tamwe,Apartment,1,1.0,5.0,600.0
+3500.0,thanlyin,Condo,2,1.0,5.0,710.0
+13500.0,kamaryut,Condo,2,2.0,19.0,937.0
+2850.0,okkalappa south,Apartment,2,1.0,2.0,972.0
+8600.0,yankin,Condo,3,3.0,1.0,1198.0
+13300.0,yankin,Condo,3,2.0,2.0,1664.0
+7500.0,thingangkuun,Condo,3,2.0,4.0,1059.0
+1380.0,thingangkuun,Apartment,1,1.0,2.0,625.0
+5200.0,mayangone,Condo,2,2.0,1.0,1026.0
+6500.0,mayangone,Condo,2,2.0,1.0,1800.0
+3000.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+35800.0,dagon myothit (north),House,3,2.0,1.0,4015.0
+4750.0,kyeemyindaing,Condo,3,3.0,4.0,1300.0
+40000.0,kamaryut,House,5,3.0,2.0,3600.0
+37000.0,dagon myothit (north),House,7,7.0,2.0,4800.0
+6400.0,thingangkuun,Condo,2,2.0,1.0,1059.0
+70000.0,thingangkuun,House,5,5.0,2.0,6956.0
+15500.0,yankin,Condo,7,7.0,1.0,2800.0
+11500.0,yankin,Condo,3,2.0,4.0,1685.0
+2650.0,okkalappa south,Apartment,2,1.0,1.0,918.0
+2800.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+1380.0,thaketa,Apartment,2,1.0,5.0,990.0
+3000.0,mayangone,Apartment,3,2.0,3.0,1650.0
+9000.0,yankin,Condo,3,3.0,1.0,1198.0
+30000.0,okkalappa south,House,7,3.0,2.0,7000.0
+10500.0,hlaing,Condo,3,3.0,1.0,1505.0
+2250.0,tamwe,Apartment,3,3.0,4.0,1016.0
+2400.0,thingangkuun,Apartment,2,1.0,1.0,1081.0
+8100.0,yankin,Condo,6,3.0,6.0,1798.0
+1580.0,sanchaung,Apartment,2,1.0,8.0,900.0
+35000.0,thingangkuun,House,5,3.0,2.0,3604.0
+2990.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+2970.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+2700.0,sanchaung,Apartment,3,2.0,5.0,1250.0
+4800.0,bahan,Apartment,3,2.0,1.0,900.0
+2100.0,okkalappa north,Apartment,2,1.0,4.0,972.0
+16000.0,hlaing,Condo,4,3.0,11.0,2015.0
+56000.0,mayangone,House,5,5.0,2.0,7000.0
+65000.0,hlaing,House,5,5.0,2.0,4200.0
+9800.0,okkalappa south,House,3,2.0,2.0,1200.0
+120000.0,kamaryut,House,5,5.0,2.0,8400.0
+3900.0,okkalappa south,Apartment,2,1.0,1.0,990.0
+43000.0,ahlon,House,4,4.0,2.0,4800.0
+11000.0,yankin,Condo,3,3.0,1.0,2000.0
+13000.0,hlaing,Condo,3,3.0,1.0,1734.0
+43000.0,okkalappa south,House,7,6.0,2.0,3300.0
+1500.0,thaketa,Apartment,3,1.0,3.0,972.0
+2300.0,okkalappa south,Apartment,2,1.0,2.0,972.0
+5200.0,dagon myothit (north),House,2,1.0,1.0,1200.0
+11000.0,hlaing,Condo,3,3.0,1.0,1505.0
+2150.0,okkalappa north,Apartment,1,1.0,1.0,1026.0
+2680.0,okkalappa south,Apartment,2,1.0,1.0,918.0
+16500.0,yankin,Condo,3,2.0,33.0,1735.0
+4300.0,dagon myothit (south),House,3,2.0,2.5,1320.0
+21500.0,ahlon,Condo,4,4.0,1.0,3308.0
+3000.0,thingangkuun,Apartment,3,2.0,1.0,850.0
+4150.0,thingangkuun,Condo,2,2.0,4.0,918.0
+8900.0,thanlyin,House,5,2.0,2.0,3339.0
+35000.0,thingangkuun,House,4,3.0,2.0,3600.0
+95000.0,bahan,House,4,4.0,2.0,4600.0
+4500.0,thanlyin,Condo,2,2.0,7.0,943.0
+60000.0,insein,House,5,4.0,2.0,11064.0
+3200.0,dagon myothit (north),Apartment,1,1.0,1.0,918.0
+16000.0,dagon myothit (north),House,6,3.0,3.0,2820.0
+32500.0,mayangone,House,3,4.0,1.5,3000.0
+25500.0,dagon myothit (north),House,3,2.0,3.0,2400.0
+7650.0,yankin,Condo,4,3.0,1.0,1690.0
+22000.0,okkalappa south,House,6,6.0,4.0,1200.0
+1750.0,dagon myothit (seikkan),Condo,2,1.0,1.0,600.0
+26000.0,ahlon,House,6,5.0,3.0,2400.0
+23000.0,kamaryut,Condo,4,3.0,15.0,2000.0
+3500.0,kamaryut,Apartment,2,1.0,1.0,625.0
+8700.0,mayangone,Condo,3,2.0,10.0,1850.0
+1080.0,thingangkuun,Apartment,1,1.0,6.0,625.0
+2500.0,kyeemyindaing,Apartment,1,1.0,0.5,625.0
+2900.0,insein,Condo,2,2.0,8.0,1224.0
+28000.0,thaketa,House,6,5.0,2.5,4800.0
+3950.0,dagon myothit (south),House,2,1.0,1.0,1200.0
+18000.0,mayangone,Condo,3,3.0,1.0,1900.0
+1300.0,tamwe,Apartment,2,1.0,8.0,900.0
+27000.0,thingangkuun,House,2,1.0,2.0,2592.0
+1550.0,sanchaung,Apartment,1,1.0,6.0,625.0
+3500.0,tamwe,Condo,1,2.0,8.0,1150.0
+2950.0,okkalappa south,Apartment,2,2.0,1.0,972.0
+14000.0,dagon myothit (north),House,3,2.0,2.0,2700.0
+68000.0,thingangkuun,House,4,4.0,2.0,5476.0
+17000.0,dagon myothit (north),House,3,3.0,1.0,2400.0
+4200.0,sanchaung,Condo,2,2.0,5.0,1250.0
+1360.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+12500.0,dagon myothit (north),House,4,4.0,2.5,2400.0
+12900.0,dagon myothit (north),House,9,7.0,3.0,1260.0
+2280.0,thingangkuun,Apartment,1,1.0,2.0,972.0
+2120.0,thanlyin,Condo,1,1.0,1.0,484.0
+16500.0,ahlon,Condo,4,4.0,1.0,2360.0
+2580.0,okkalappa south,Apartment,1,1.0,7.0,972.0
+3850.0,okkalappa south,Apartment,2,2.0,1.0,918.0
+2195.0,thingangkuun,Apartment,2,1.0,5.0,972.0
+4500.0,mayangone,Condo,2,2.0,1.0,973.0
+65000.0,thingangkuun,House,4,4.0,2.0,10000.0
+2950.0,botahtaung,Condo,2,1.0,1.0,650.0
+13500.0,sanchaung,Condo,3,3.0,1.0,2540.0
+15000.0,okkalappa south,House,8,5.0,2.0,1600.0
+22000.0,dagon myothit (north),House,5,5.0,2.0,6400.0
+68000.0,hlaingtharya,House,5,4.0,3.0,9375.0
+16000.0,bahan,Condo,4,4.0,1.0,2045.0
+1260.0,thaketa,Apartment,1,1.0,2.0,600.0
+3600.0,hlaing,Condo,1,1.0,3.0,950.0
+17000.0,mayangone,House,3,3.0,2.0,2831.0
+33000.0,thingangkuun,House,5,5.0,3.0,3500.0
+55000.0,kamaryut,House,6,5.0,2.0,7125.0
+1550.0,thaketa,Apartment,2,1.0,2.0,972.0
+1050.0,okkalappa south,Apartment,2,1.0,5.0,650.0
+3500.0,dagon myothit (seikkan),Condo,3,2.0,4.0,1184.0
+10000.0,dagon myothit (north),Apartment,2,4.0,1.0,1836.0
+22000.0,thingangkuun,House,3,2.0,2.0,3600.0
+75000.0,okkalappa south,House,6,6.0,3.0,4800.0
+8200.0,ahlon,Condo,3,3.0,1.0,1800.0
+13500.0,dagon myothit (north),House,4,5.0,3.0,1200.0
+7500.0,dagon myothit (north),House,5,3.0,2.5,1200.0
+11500.0,yankin,Condo,2,2.0,1.0,1500.0
+2950.0,yankin,Apartment,4,3.0,0.5,1000.0
+13000.0,thaketa,House,3,3.0,2.0,2145.0
+8000.0,hlaing,Condo,2,2.0,1.0,908.0
+3350.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+25000.0,dagon myothit (south),House,6,9.0,4.0,9409.0
+2060.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+18000.0,thingangkuun,House,4,3.0,2.0,2400.0
+1550.0,sanchaung,Apartment,1,1.0,8.0,825.0
+2500.0,lanmadaw,Apartment,2,1.0,1.0,850.0
+2750.0,tamwe,Apartment,2,1.0,0.5,715.0
+1850.0,tamwe,Apartment,3,1.0,3.0,1200.0
+32500.0,thingangkuun,House,3,4.0,2.0,2400.0
+3500.0,thanlyin,Condo,2,1.0,1.0,710.0
+3850.0,sanchaung,Apartment,1,2.0,0.5,625.0
+2250.0,okkalappa north,Apartment,2,1.0,3.0,918.0
+7650.0,okkalappa south,Condo,2,2.0,1.0,1836.0
+36000.0,thingangkuun,House,3,3.0,2.0,3000.0
+25000.0,hlaingtharya,House,5,2.0,2.0,4800.0
+7500.0,sanchaung,Condo,2,2.0,2.0,1250.0
+4800.0,kamaryut,Condo,2,2.0,5.0,1470.0
+118000.0,bahan,House,7,7.0,3.5,7925.0
+1600.0,thingangkuun,Apartment,1,1.0,1.0,600.0
+7500.0,ahlon,Condo,5,3.0,6.0,1920.0
+7300.0,okkalappa south,House,2,1.0,1.0,1200.0
+3000.0,kyauktada,Apartment,1,1.0,1.0,1000.0
+25000.0,hlaing,House,4,4.0,2.0,3270.0
+2450.0,tamwe,Apartment,2,1.0,1.0,900.0
+4000.0,lanmadaw,Apartment,3,2.0,3.0,900.0
+13500.0,mayangone,Condo,3,3.0,1.0,1506.0
+17500.0,hlaingtharya,House,4,3.0,2.0,4800.0
+12000.0,dagon myothit (north),House,2,2.0,2.0,2400.0
+2650.0,thingangkuun,Apartment,1,1.0,0.5,625.0
+1490.0,sanchaung,Apartment,1,1.0,6.0,625.0
+75000.0,dagon myothit (south),House,6,6.0,3.0,8926.0
+24000.0,dagon myothit (north),House,5,3.0,3.0,2520.0
+1000.0,kamaryut,Apartment,1,1.0,6.0,6250.0
+7800.0,yankin,Condo,3,3.0,1.0,1807.0
+15008.0,thingangkuun,House,3,4.0,3.0,1200.0
+1550.0,sanchaung,Apartment,1,1.0,5.0,625.0
+1420.0,thaketa,Apartment,2,1.0,4.0,972.0
+2520.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+6300.0,sanchaung,Apartment,3,2.0,1.0,1250.0
+2000.0,dagon myothit (north),Apartment,2,2.0,3.0,972.0
+14000.0,bahan,Condo,3,3.0,1.0,1500.0
+3300.0,thingangkuun,Apartment,2,1.0,2.0,1150.0
+17500.0,yankin,Condo,3,3.0,1.0,1669.0
+850.0,thanlyin,Apartment,2,1.0,6.0,1026.0
+42500.0,kamaryut,House,3,1.0,2.0,1250.0
+2750.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+1500.0,hlaing,Apartment,2,1.0,5.0,750.0
+1170.0,thingangkuun,Apartment,1,1.0,1.0,625.0
+2990.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+2700.0,okkalappa south,Apartment,1,2.0,2.0,972.0
+40000.0,thingangkuun,House,5,6.0,2.0,8100.0
+1920.0,thingangkuun,Apartment,2,1.0,3.0,972.0
+7800.0,yankin,Condo,3,3.0,1.0,1306.0
+2730.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+9800.0,hlaing,Condo,4,3.0,3.0,2205.0
+8100.0,thingangkuun,Condo,3,3.0,1.0,2025.0
+2900.0,thaketa,Apartment,3,1.0,1.0,1200.0
+3000.0,okkalappa south,Apartment,1,1.0,1.0,972.0
+2500.0,tamwe,Apartment,3,2.0,2.0,1540.0
+2950.0,okkalappa south,Apartment,2,2.0,3.0,918.0
+22500.0,thingangkuun,House,4,3.0,2.0,3000.0
+15000.0,dagon myothit (north),House,3,3.0,1.0,2400.0
+3800.0,hlaing,Condo,2,2.0,3.0,950.0
+7000.0,thingangkuun,House,4,2.0,2.0,1200.0
+15500.0,bahan,Condo,2,2.0,1.0,2080.0
+5400.0,kamaryut,Condo,3,2.0,5.0,1300.0
+12000.0,yankin,Condo,3,3.0,1.0,1650.0
+85000.0,mayangone,House,7,6.0,3.0,18225.0
+1600.0,okkalappa south,Apartment,2,1.0,6.0,761.6
+32000.0,thingangkuun,House,4,4.0,2.0,2600.0
+35000.0,dagon myothit (north),House,5,5.0,3.0,4225.0
+25000.0,dagon myothit (north),House,3,2.0,2.5,4800.0
+38000.0,yankin,House,4,3.0,2.0,2150.0
+42000.0,okkalappa south,House,5,5.0,2.0,2700.0
+55000.0,thingangkuun,House,5,6.0,2.0,5904.0
+117000.0,bahan,House,5,5.0,3.0,3833.0
+12000.0,ahlon,Condo,4,4.0,1.0,3200.0
+5600.0,dagon myothit (north),House,3,3.0,2.0,1320.0
+15850.0,dagon myothit (north),House,6,7.0,2.5,2400.0
+2300.0,tamwe,Apartment,2,1.0,4.0,900.0
+3490.0,okkalappa south,Condo,2,2.0,5.0,1026.0
+1180.0,thingangkuun,Apartment,1,1.0,5.0,625.0
+1000.0,thingangkuun,Apartment,2,1.0,3.0,825.0
+36000.0,mayangone,House,5,4.0,2.0,4800.0
+1485.0,thingangkuun,Apartment,2,1.0,1.0,625.0
+2100.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+8500.0,okkalappa south,House,2,1.0,2.0,1200.0
+1200.0,thingangkuun,Apartment,1,1.0,3.0,625.0
+1250.0,thingangkuun,Apartment,1,1.0,3.0,600.0
+29000.0,mayangone,House,5,5.0,3.5,2834.0
+2160.0,thingangkuun,Apartment,2,1.0,5.0,972.0
+3000.0,yankin,Apartment,2,2.0,6.0,1500.0
+35000.0,tamwe,House,3,3.0,2.0,3375.0
+28000.0,thingangkuun,House,4,3.0,2.0,3600.0
+2400.0,okkalappa south,Apartment,1,1.0,1.0,972.0
+1900.0,tamwe,Apartment,2,1.0,6.0,1105.0
+3000.0,tamwe,Apartment,2,2.0,3.0,1320.0
+1580.0,thaketa,Condo,2,2.0,1.0,750.0
+3800.0,okkalappa south,Condo,2,2.0,2.0,1026.0
+1375.0,hlaing,Apartment,1,1.0,1.0,625.0
+35000.0,okkalappa south,House,5,7.0,4.5,1500.0
+3300.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+11500.0,yankin,Condo,3,3.0,1.0,1750.0
+13000.0,okkalappa south,House,2,3.0,2.0,1800.0
+4000.0,thingangkuun,Condo,2,2.0,1.0,1530.0
+5800.0,okkalappa south,Condo,3,2.0,1.0,1200.0
+1350.0,mayangone,Apartment,1,1.0,3.0,625.0
+42000.0,thingangkuun,House,7,7.0,3.0,6400.0
+2700.0,dagon myothit (seikkan),Condo,3,2.0,5.0,825.0
+4600.0,okkalappa south,Condo,2,2.0,2.0,1120.0
+2700.0,thaketa,Apartment,2,1.0,1.0,1026.0
+55000.0,thingangkuun,House,3,4.0,2.0,6300.0
+5200.0,thaketa,Apartment,3,1.0,0.5,825.0
+2150.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+15500.0,sanchaung,Condo,3,4.0,1.0,2430.0
+2930.0,okkalappa south,Apartment,2,1.0,2.0,972.0
+2150.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+850.0,tamwe,Apartment,1,1.0,5.0,625.0
+2870.0,thingangkuun,Apartment,1,1.0,2.0,972.0
+7700.0,okkalappa south,Condo,3,2.0,1.0,1650.0
+1860.0,thaketa,Apartment,2,1.0,2.0,972.0
+30000.0,okkalappa south,House,6,3.0,2.0,7000.0
+1375.0,sanchaung,Apartment,1,1.0,6.0,625.0
+9700.0,yankin,Condo,3,3.0,1.0,1500.0
+2250.0,okkalappa south,Condo,1,1.0,1.0,972.0
+8500.0,thingangkuun,Condo,3,3.0,1.0,1801.0
+30000.0,thingangkuun,House,5,2.0,2.0,3600.0
+60000.0,okkalappa south,House,5,5.0,2.0,4800.0
+1700.0,sanchaung,Apartment,2,1.0,2.0,687.5
+8500.0,lanmadaw,Condo,3,3.0,1.0,1180.0
+2830.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+30000.0,okkalappa south,House,6,3.0,2.0,7000.0
+33000.0,thingangkuun,House,5,5.0,3.0,3500.0
+900.0,tamwe,Apartment,3,1.0,3.0,900.0
+19500.0,sanchaung,House,4,4.0,2.0,1250.0
+17000.0,mayangone,House,4,3.0,2.0,2831.0
+1250.0,thingangkuun,Apartment,1,1.0,4.0,625.0
+1860.0,thaketa,Apartment,1,1.0,2.0,972.0
+37000.0,dagon myothit (north),House,7,6.0,3.5,2400.0
+1350.0,kamaryut,Apartment,1,1.0,1.0,630.0
+14500.0,dagon myothit (north),House,5,5.0,3.0,1200.0
+30000.0,yankin,House,4,3.0,2.0,2400.0
+3450.0,okkalappa south,Condo,2,2.0,6.0,918.0
+2420.0,okkalappa south,Apartment,2,1.0,4.0,918.0
+9500.0,ahlon,Condo,4,4.0,1.0,2160.0
+1900.0,tamwe,Apartment,2,1.0,6.0,1105.0
+17540.0,bahan,Condo,3,3.0,1.0,1754.0
+16000.0,thingangkuun,House,3,3.0,2.0,2700.0
+1495.0,thaketa,Apartment,2,1.0,3.0,1045.0
+6800.0,dagon myothit (north),House,2,1.0,1.0,2400.0
+2480.0,okkalappa south,Apartment,2,1.0,2.0,1026.0
+70000.0,hlaing,House,6,6.0,2.0,4200.0
+1280.0,tamwe,Apartment,1,1.0,4.0,900.0
+4200.0,dagon myothit (north),House,2,2.0,1.0,1200.0
+2070.0,okkalappa south,Apartment,2,1.0,2.0,756.0
+3200.0,thaketa,Condo,1,2.0,1.0,1083.0
+8100.0,yankin,Condo,2,2.0,7.0,1189.0
+2850.0,dagon myothit (seikkan),Condo,3,2.0,9.0,840.0
+3100.0,thingangkuun,Apartment,2,1.0,1.0,972.0
+7000.0,yankin,Condo,2,2.0,11.0,800.0
+50000.0,mayangone,House,7,7.0,3.0,6400.0
+3980.0,okkalappa south,Condo,2,2.0,1.0,1026.0
+7500.0,ahlon,Condo,3,3.0,1.0,1780.0
+3500.0,mingalartaungnyunt,Condo,2,2.0,9.0,1064.0
+25000.0,thingangkuun,House,5,3.0,2.0,2400.0
+8200.0,dagon myothit (east),House,2,1.0,1.0,2400.0
+62500.0,hlaingtharya,House,7,4.0,2.0,11000.0
+1750.0,tamwe,Apartment,3,1.0,5.0,1020.0
+1675.0,dawbon,Condo,1,1.0,1.0,750.0
+9500.0,kamaryut,Condo,2,2.0,20.0,761.0
+3450.0,okkalappa south,Condo,2,1.0,6.0,918.0
+7300.0,sanchaung,Condo,2,2.0,1.0,1056.0
+63000.0,mayangone,House,5,5.0,2.0,7700.0
+6000.0,thanlyin,Condo,3,2.0,3.0,1640.0
+6795.0,yankin,Condo,3,2.0,1.0,1359.0
+4100.0,thanlyin,Condo,2,2.0,3.0,905.0
+13500.0,thaketa,House,2,3.0,3.5,1200.0
+14000.0,yankin,Condo,4,4.0,1.0,2000.0
+3980.0,okkalappa south,Condo,2,2.0,1.0,1026.0
+5800.0,okkalappa south,Condo,3,3.0,5.0,1200.0
+58000.0,okkalappa south,House,5,5.0,3.0,7200.0
+4500.0,botahtaung,Condo,2,1.0,7.0,950.0
+7300.0,ahlon,Condo,3,4.0,1.0,1800.0
+3600.0,sanchaung,Apartment,1,1.0,4.0,1250.0
+4000.0,lanmadaw,Condo,2,2.0,9.0,1800.0
+55000.0,bahan,House,6,5.0,3.5,5600.0
+1800.0,dagon myothit (seikkan),Condo,2,1.0,2.0,600.0
+3250.0,tamwe,Condo,3,2.0,1.0,1200.0
+4800.0,yankin,Condo,2,1.0,1.0,517.0
+4300.0,mayangone,Condo,2,2.0,5.0,1265.0
+2450.0,okkalappa south,Apartment,2,1.0,1.0,918.0
+2990.0,okkalappa south,Apartment,2,2.0,4.0,972.0
+69000.0,mayangone,House,6,5.0,2.0,6750.0
+1780.0,thaketa,Apartment,2,1.0,3.0,972.0
+3050.0,okkalappa south,Apartment,1,1.0,0.5,756.0
+3650.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+1200.0,mayangone,Apartment,1,1.0,4.0,750.0
+65000.0,mayangone,House,5,5.0,2.0,7700.0
+38000.0,mayangone,House,5,3.0,2.0,4225.0
+5500.0,hlaing,Condo,2,2.0,1.0,983.0
+11500.0,lanmadaw,Condo,4,4.0,1.0,1439.0
+5200.0,kyeemyindaing,Apartment,2,2.0,0.5,924.0
+95000.0,kamaryut,House,6,5.0,1.5,6400.0
+880.0,dawbon,Apartment,1,1.0,6.0,625.0
+2495.0,sanchaung,Apartment,2,1.0,5.0,825.0
+4800.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+32000.0,thingangkuun,House,7,4.0,2.0,6300.0
+39800.0,kamaryut,House,3,2.0,2.0,1250.0
+3200.0,kyeemyindaing,Condo,2,1.0,5.0,900.0
+2150.0,okkalappa south,Apartment,2,1.0,5.0,918.0
+34000.0,tamwe,House,4,3.0,2.0,2850.0
+2500.0,okkalappa south,Apartment,2,2.0,5.0,918.0
+45000.0,yankin,House,5,3.0,2.0,2640.0
+4300.0,dagon myothit (south),Apartment,4,2.0,1.0,1000.0
+1650.0,thaketa,Apartment,2,1.0,1.0,972.0
+1650.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+60000.0,yankin,House,4,4.0,2.0,2750.0
+25000.0,okkalappa south,House,3,2.0,2.0,2400.0
+1700.0,dagon myothit (seikkan),Apartment,2,1.0,1.0,500.0
+3650.0,hlaing,Condo,3,3.0,1.0,970.0
+10000.0,yankin,Condo,3,3.0,1.0,1499.0
+3500.0,tamwe,Condo,1,2.0,5.0,1012.0
+4800.0,tamwe,Condo,3,2.0,3.0,1250.0
+1800.0,tamwe,Apartment,3,1.0,5.0,1081.0
+35000.0,yankin,House,6,2.0,3.5,2400.0
+6300.0,sanchaung,Condo,3,2.0,6.0,1250.0
+2690.0,thingangkuun,Apartment,2,1.0,2.0,972.0
+2790.0,okkalappa south,Apartment,1,1.0,1.0,729.0
+2450.0,okkalappa south,Apartment,2,2.0,4.0,972.0
+2750.0,sanchaung,Apartment,1,1.0,1.0,750.0
+36000.0,mayangone,House,4,4.0,2.0,4955.0
+1790.0,thaketa,Apartment,1,1.0,5.0,1026.0
+1450.0,okkalappa south,Apartment,2,1.0,2.0,729.0
+2070.0,okkalappa south,Apartment,2,1.0,3.0,756.0
+920.0,thaketa,Apartment,1,1.0,4.0,625.0
+120000.0,kamaryut,House,5,5.0,3.0,6142.0
+17000.0,dagon myothit (north),House,3,2.0,1.0,2400.0
+2500.0,okkalappa south,Apartment,1,1.0,2.0,1200.0
+2500.0,tamwe,Apartment,2,1.0,1.0,770.0
+55000.0,thingangkuun,House,5,5.0,2.5,4800.0
+3450.0,okkalappa south,Condo,2,2.0,6.0,918.0
+60000.0,hlaingtharya,House,4,3.0,2.0,8650.0
+3250.0,thingangkuun,Apartment,2,2.0,3.0,1458.0
+5750.0,okkalappa south,House,2,1.0,2.0,1200.0
+18000.0,insein,House,4,2.0,2.0,4275.0
+2090.0,okkalappa south,Apartment,2,1.0,2.0,972.0
+1750.0,tamwe,Apartment,3,1.0,6.0,1081.0
+9800.0,kyauktada,Condo,2,2.0,1.0,1227.0
+4300.0,sanchaung,Condo,2,1.0,5.0,1250.0
+2700.0,okkalappa south,Apartment,2,2.0,6.0,1320.0
+4800.0,tamwe,Condo,3,2.0,2.0,1250.0
+80000.0,yankin,House,5,1.0,2.0,4800.0
+5380.0,thaketa,Apartment,3,1.0,0.5,810.0
+3650.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+2750.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+39000.0,thingangkuun,House,4,4.0,2.0,8100.0
+1730.0,ahlon,Apartment,1,1.0,5.0,625.0
+8000.0,hlaing,Condo,3,3.0,1.0,1364.0
+3780.0,okkalappa south,Condo,2,2.0,1.0,918.0
+10500.0,dagon myothit (east),House,3,3.0,2.0,2850.0
+11000.0,ahlon,Condo,2,2.0,1.0,2000.0
+4360.0,okkalappa south,Condo,2,2.0,5.0,1026.0
+18000.0,hlaing,Condo,3,3.0,1.0,2000.0
+7000.0,tamwe,Apartment,1,1.0,1.0,900.0
+2500.0,insein,Apartment,2,1.0,1.0,972.0
+11500.0,mayangone,Condo,3,3.0,1.0,1260.0
+5200.0,kyeemyindaing,Apartment,2,2.0,0.5,10976.0
+35000.0,kamaryut,House,4,4.0,2.0,3600.0
+15000.0,mayangone,Condo,3,2.0,1.0,1500.0
+68000.0,hlaing,House,4,3.0,1.0,5525.0
+2380.0,okkalappa south,Apartment,2,2.0,6.0,700.0
+55000.0,mayangone,House,5,5.0,3.0,4000.0
+1250.0,thingangkuun,Apartment,1,1.0,2.0,662.5
+13300.0,yankin,Condo,3,3.0,1.0,1664.0
+11500.0,dagon myothit (north),House,3,3.0,2.0,1200.0
+18000.0,dagon myothit (north),House,2,2.0,2.0,2400.0
+2200.0,tamwe,Apartment,1,1.0,4.0,625.0
+1400.0,okkalappa south,Apartment,1,1.0,2.0,728.0
+10500.0,dagon myothit (east),House,3,3.0,2.0,2850.0
+7000.0,yankin,Condo,3,2.0,1.0,1690.0
+4500.0,okkalappa north,Condo,3,3.0,1.0,1680.0
+28500.0,dagon myothit (north),House,4,4.0,2.0,2400.0
+1800.0,sanchaung,Apartment,1,1.0,4.0,625.0
+6700.0,mayangone,Condo,3,2.0,1.0,1700.0
+4500.0,hlaing,Condo,1,1.0,1.0,748.0
+4450.0,lanmadaw,Condo,1,1.0,10.0,528.0
+9200.0,bahan,Condo,3,2.0,1.0,2000.0
+16500.0,mayangone,House,3,3.0,2.0,3850.0
+1300.0,thaketa,Apartment,1,1.0,5.0,972.0
+4000.0,mayangone,Condo,3,2.0,3.0,1100.0
+15500.0,yankin,Condo,2,2.0,1.0,1250.0
+9800.0,dagon myothit (north),House,5,7.0,3.0,1320.0
+2700.0,sanchaung,Apartment,3,2.0,5.0,1250.0
+7000.0,okkalappa south,House,2,1.0,2.0,1200.0
+4250.0,okkalappa south,Apartment,3,2.0,1.0,972.0
+5700.0,ahlon,Apartment,3,2.0,3.0,1250.0
+5500.0,kyauktada,Condo,2,2.0,4.0,1250.0
+10000.0,hlaing,Condo,3,3.0,1.0,1505.0
+3000.0,lanmadaw,Condo,1,1.0,9.0,392.0
+1920.0,sanchaung,Apartment,2,1.0,7.0,935.0
+9990.0,mayangone,Condo,3,4.0,1.0,2380.0
+10600.0,dagon myothit (north),House,4,6.0,2.5,1200.0
+13500.0,sanchaung,Condo,3,3.0,1.0,2540.0
+4850.0,okkalappa south,Condo,2,3.0,5.0,1512.0
+5800.0,hlaing,Condo,2,2.0,8.0,1282.0
+4450.0,okkalappa south,Apartment,2,2.0,1.0,972.0
+6600.0,lanmadaw,Condo,2,2.0,10.0,929.0
+8700.0,dagon myothit (north),House,4,3.0,2.0,1380.0
+2250.0,thingangkuun,Apartment,2,2.0,5.0,972.0
+5000.0,hlaing,Condo,2,2.0,1.0,855.0
+5900.0,sanchaung,Apartment,3,3.0,4.0,2000.0
+95000.0,kamaryut,House,7,7.0,3.5,5445.0
+2950.0,yankin,Apartment,4,2.0,1.0,1000.0
+110000.0,kamaryut,House,5,6.0,2.0,7239.0
+4550.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+15000.0,okkalappa south,House,4,3.0,2.0,1200.0
+65000.0,thingangkuun,House,5,5.0,2.0,10000.0
+9500.0,dagon myothit (south),House,4,3.0,2.0,3600.0
+60000.0,yankin,House,5,5.0,2.0,5700.0
+8500.0,okkalappa south,Condo,3,2.0,1.0,1199.0
+1680.0,thaketa,Apartment,2,1.0,2.0,972.0
+7950.0,dagon myothit (north),House,7,3.0,3.0,1200.0
+1890.0,dagon myothit (north),Apartment,2,1.0,4.0,1080.0
+22500.0,mayangone,House,1,1.0,2.0,5500.0
+15500.0,hlaing,Condo,3,3.0,1.0,2150.0
+4100.0,dagon myothit (north),House,2,1.0,1.0,1200.0
+32000.0,thingangkuun,House,5,3.0,2.0,3600.0
+5850.0,bahan,Condo,2,2.0,6.0,1500.0
+12000.0,dagon myothit (north),House,4,1.0,2.0,2400.0
+3500.0,thanlyin,Condo,2,1.0,5.0,710.0
+7800.0,dagon myothit (north),House,3,1.0,2.0,1800.0
+15000.0,palae myothit,House,3,1.0,1.0,7200.0
+4850.0,mingalartaungnyunt,Condo,3,2.0,1.0,1250.0
+62000.0,kamaryut,House,4,4.0,2.0,4900.0
+1500.0,tamwe,Apartment,2,1.0,2.0,625.0
+2600.0,okkalappa south,Apartment,2,1.0,1.0,864.0
+1700.0,hlaing,Apartment,2,2.0,7.0,1300.0
+3150.0,thaketa,Condo,2,2.0,5.0,1458.0
+10000.0,lanmadaw,Apartment,1,1.0,1.0,1250.0
+8600.0,okkalappa south,Condo,3,3.0,7.0,1836.0
+17000.0,dagon myothit (east),House,3,3.0,2.0,3869.0
+1330.0,thaketa,Apartment,2,1.0,5.0,972.0
+2200.0,dagon myothit (north),Apartment,2,1.0,2.0,900.0
+7650.0,yankin,Condo,4,3.0,1.0,1690.0
+6000.0,dagon,Condo,2,2.0,1.0,1000.0
+42000.0,kamaryut,House,5,3.0,2.0,3600.0
+29000.0,mayangone,House,5,5.0,3.5,2834.0
+2500.0,okkalappa south,Apartment,2,1.0,2.0,972.0
+1650.0,sanchaung,Apartment,2,1.0,7.0,900.0
+1250.0,sanchaung,Apartment,1,1.0,5.0,687.5
+2300.0,okkalappa south,Apartment,1,1.0,1.0,972.0
+17000.0,dagon myothit (north),House,3,3.0,1.0,2400.0
+2550.0,okkalappa south,Condo,1,2.0,8.0,918.0
+7000.0,thingangkuun,House,2,2.0,2.0,1325.0
+4350.0,okkalappa south,Apartment,3,2.0,0.5,972.0
+4000.0,okkalappa south,Apartment,7,5.0,1.0,918.0
+8600.0,mayangone,Condo,3,2.0,1.0,1280.0
+2950.0,dagon myothit (south),House,2,2.0,2.0,1200.0
+11800.0,dagon myothit (north),House,3,4.0,2.5,1260.0
+5300.0,tamwe,Condo,3,3.0,1.0,1500.0
+2450.0,okkalappa south,Apartment,2,1.0,2.0,918.0
+5500.0,tamwe,Apartment,1,2.0,1.0,1650.0
+3500.0,sanchaung,Apartment,1,2.0,1.0,750.0
+70000.0,bahan,House,5,5.0,2.0,3500.0
+35000.0,bahan,House,5,4.0,2.0,2856.0
+2750.0,thingangkuun,Condo,1,2.0,4.0,1107.0
+3430.0,thanlyin,Condo,1,1.0,3.0,651.0
+930.0,tamwe,Apartment,1,1.0,7.0,625.0
+1400.0,dagon myothit (north),Apartment,1,1.0,6.0,972.0
+4200.0,hlaing,Condo,3,3.0,6.0,1170.0
+3600.0,dagon myothit (north),Condo,2,2.0,5.0,1200.0
+2200.0,thingangkuun,Apartment,3,1.0,5.0,1125.0
+12000.0,okkalappa south,House,1,1.0,1.0,1500.0
+3500.0,dagon myothit (north),Apartment,2,1.0,1.0,1045.0
+6200.0,kamaryut,Condo,3,3.0,1.0,1750.0
+21000.0,bahan,House,1,1.0,2.0,800.0
+1550.0,tamwe,Apartment,2,1.0,2.0,900.0
+3400.0,bahan,Apartment,1,1.0,1.0,800.0
+2800.0,tamwe,Apartment,2,1.0,2.0,900.0
+25000.0,thingangkuun,House,3,2.0,2.0,3200.0
+1600.0,thaketa,Apartment,2,1.0,3.0,990.0
+9500.0,yankin,Condo,3,3.0,1.0,1780.0
+75000.0,yankin,House,10,10.0,4.0,4200.0
+6600.0,yankin,Condo,2,1.0,6.0,800.0
+37000.0,dagon myothit (north),House,6,5.0,2.5,2400.0
+20000.0,okkalappa south,House,7,5.0,2.5,2580.0
+1280.0,thingangkuun,Apartment,1,1.0,2.0,625.0
+1650.0,thaketa,Apartment,2,1.0,1.0,990.0
+1900.0,yankin,Apartment,1,1.0,1.0,850.0
+2070.0,kamaryut,Apartment,1,1.0,1.0,625.0
+55000.0,mayangone,House,6,6.0,3.0,7620.0
+35000.0,yankin,House,7,3.0,3.5,2760.0
+6000.0,thingangkuun,Condo,3,3.0,1.0,1550.0
+10000.0,hlaing,Condo,3,3.0,1.0,1505.0
+1150.0,thaketa,Apartment,2,1.0,6.0,972.0
+1980.0,thingangkuun,Apartment,1,1.0,1.0,900.0
+1580.0,thaketa,Apartment,2,1.0,3.0,972.0
+15800.0,yankin,Condo,3,2.0,1.0,1300.0
+6000.0,thaketa,Condo,2,2.0,1.0,1020.0
+35000.0,kamaryut,House,4,3.0,2.0,3600.0
+8100.0,kamaryut,Condo,3,3.0,1.0,1622.0
+2490.0,hlaing,Apartment,2,1.0,1.0,750.0
+4500.0,botahtaung,Condo,2,1.0,7.0,950.0
+52000.0,thingangkuun,House,6,4.0,2.0,3420.0
+9500.0,yankin,Condo,3,3.0,1.0,1080.0
+6000.0,thanlyin,House,4,1.0,2.0,1210.0
+7300.0,sanchaung,Condo,2,2.0,1.0,1056.0
+2750.0,okkalappa south,Apartment,2,1.0,1.0,1026.0
+1350.0,mayangone,Apartment,1,1.0,4.0,625.0
+1100.0,thingangkuun,Apartment,1,1.0,3.0,715.0
+7800.0,kyauktada,Condo,3,2.0,5.0,1600.0
+4500.0,sanchaung,Condo,1,1.0,1.0,1300.0
+4200.0,okkalappa north,House,3,1.0,2.0,1200.0
+36000.0,okkalappa south,House,7,6.0,3.5,3200.0
+1090.0,thaketa,Apartment,2,1.0,6.0,1045.0
+14600.0,thaketa,House,4,5.0,3.0,1300.0
+60000.0,mingalartaungnyunt,House,6,5.0,2.0,6600.0
+4400.0,okkalappa south,Condo,2,2.0,2.0,1026.0
+1100.0,thingangkuun,Apartment,1,1.0,4.0,972.0
+3000.0,thaketa,Condo,2,2.0,1.0,972.0
+7800.0,thingangkuun,Condo,3,3.0,1.0,1974.0
+10500.0,okkalappa south,House,4,3.0,2.5,1200.0
+79000.0,yankin,House,4,5.0,2.0,5400.0
+2100.0,lanmadaw,Apartment,1,1.0,3.0,625.0
+4600.0,hlaing,Condo,2,2.0,1.0,1088.0
+38500.0,thingangkuun,House,7,5.0,2.0,5400.0
+15000.0,yankin,Condo,4,2.0,1.0,1980.0
+1800.0,tamwe,Apartment,2,1.0,4.0,972.0
+3400.0,tamwe,Apartment,4,2.0,1.0,1500.0
+2100.0,okkalappa south,Apartment,2,2.0,3.0,990.0
+60000.0,mayangone,House,5,5.0,2.5,6400.0
+3750.0,sanchaung,Apartment,2,2.0,3.0,1250.0
+11500.0,kamaryut,Condo,2,2.0,1.0,937.0
+27000.0,yankin,House,4,3.0,2.0,4600.0
+3500.0,ahlon,Apartment,2,1.0,1.0,962.5
+9800.0,hlaing,Condo,3,3.0,10.0,1825.0
+65000.0,bahan,House,5,5.0,2.0,8363.0
+3750.0,okkalappa south,Condo,2,2.0,5.0,1026.0
+9450.0,mayangone,Condo,2,2.0,1.0,1000.0
+18500.0,yankin,Condo,4,2.0,1.0,3050.0
+18000.0,yankin,House,5,3.0,3.0,1540.0
+2900.0,hlaing,Apartment,4,2.0,4.0,1000.0
+10000.0,thaketa,Condo,3,2.0,29.0,1242.0
+3600.0,bahan,Apartment,1,1.0,1.0,800.0
+40000.0,yankin,House,5,4.0,2.0,2100.0
+3500.0,tamwe,Condo,1,2.0,4.0,1012.0
+49830.0,kamaryut,House,4,4.0,2.0,3833.0
+49500.0,hlaing,House,4,3.0,2.0,110.0
+2880.0,okkalappa south,Apartment,2,2.0,3.0,972.0
+1100.0,tamwe,Apartment,1,1.0,4.0,687.5
+13000.0,okkalappa south,House,4,4.0,3.0,1200.0
+11500.0,hlaing,Condo,3,3.0,1.0,1711.0
+2200.0,tamwe,Apartment,2,1.0,3.0,900.0
+3600.0,thingangkuun,Apartment,2,2.0,4.0,1820.0
+6300.0,mayangone,House,2,2.0,2.0,3300.0
+1950.0,hlaing,Apartment,1,1.0,1.0,770.0
+15500.0,ahlon,Condo,4,4.0,1.0,2205.0
+3200.0,dagon myothit (north),Apartment,1,1.0,1.0,972.0
+4750.0,kyeemyindaing,Condo,3,3.0,4.0,1375.0
+4750.0,kyeemyindaing,Condo,3,3.0,4.0,1300.0
+36.0,mayangone,Condo,2,2.0,1.0,1056.0
+2490.0,hlaing,Apartment,2,1.0,1.0,750.0
+19000.0,mingaladon,House,4,4.0,2.0,3500.0
+25000.0,dagon myothit (north),House,7,3.0,3.0,2700.0
+7500.0,ahlon,Condo,5,3.0,6.0,1920.0
+5900.0,sanchaung,Condo,2,2.0,1.0,2000.0
+18000.0,thingangkuun,House,6,6.0,3.5,1000.0
+4200.0,kamaryut,Condo,2,2.0,3.0,950.0
+2150.0,kamaryut,Apartment,1,1.0,2.0,625.0
+5800.0,thingangkuun,Condo,3,3.0,1.0,1750.0
+12000.0,hlaing,Condo,3,3.0,1.0,2300.0
+8900.0,mayangone,Condo,3,3.0,1.0,1160.0
+31339.0,hlaing,Condo,5,5.0,1.0,4477.0
+60000.0,yankin,House,3,3.0,1.0,4788.0
+5500.0,tamwe,Apartment,1,1.0,0.5,900.0
+4988.0,botahtaung,Apartment,2,1.0,1.0,750.0
+1297.0,dawbon,Apartment,1,1.0,1.0,625.0
+1400.0,okkalappa north,Apartment,1,1.0,5.0,972.0
+3650.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+2800.0,pazundaung,Condo,2,2.0,1.0,1500.0
+10000.0,ahlon,Condo,3,3.0,1.0,2000.0
+2750.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+1420.0,thaketa,Apartment,2,1.0,3.0,972.0
+65000.0,insein,House,4,3.0,2.0,13110.0
+11800.0,ahlon,Condo,4,4.0,1.0,2600.0
+8500.0,mayangone,Condo,2,2.0,1.0,1000.0
+3900.0,okkalappa south,Condo,2,2.0,1.0,972.0
+4500.0,thanlyin,Condo,3,2.0,5.0,958.0
+2750.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+16500.0,yankin,House,3,2.0,2.0,1760.0
+8500.0,lanmadaw,Condo,3,3.0,1.0,1180.0
+1350.0,tamwe,Apartment,1,1.0,4.0,75.0
+1600.0,dagon myothit (south),House,2,2.0,2.0,660.0
+14500.0,ahlon,Condo,4,4.0,1.0,2360.0
+1850.0,dagon myothit (north),Apartment,1,1.0,5.0,972.0
+80.0,bahan,House,4,4.0,2.0,4500.0
+3300.0,tamwe,Apartment,2,1.0,3.0,1050.0
+18500.0,ahlon,Condo,4,3.0,2.0,2205.0
+25000.0,thingangkuun,House,3,3.0,2.0,2700.0
+32000.0,yankin,House,3,2.0,2.0,2244.0
+4500.0,thanlyin,Condo,2,2.0,5.0,905.0
+5500.0,lanmadaw,Apartment,2,1.0,1.0,800.0
+1430.0,thingangkuun,Apartment,2,1.0,5.0,625.0
+2000.0,tamwe,Apartment,2,1.0,3.0,880.0
+12000.0,ahlon,Condo,4,4.0,1.0,3200.0
+5300.0,sanchaung,Condo,2,2.0,1.0,1250.0
+2370.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+8800.0,dagon myothit (north),House,1,1.0,1.0,1540.0
+7000.0,sanchaung,Condo,3,2.0,5.0,1680.0
+8500.0,yankin,Condo,3,3.0,1.0,1500.0
+10600.0,dagon myothit (north),House,3,3.0,2.5,1200.0
+2000.0,dagon myothit (south),House,2,1.0,2.0,1200.0
+7500.0,bahan,Condo,3,2.0,5.0,1600.0
+2900.0,pazundaung,Apartment,2,1.0,3.0,900.0
+18000.0,sanchaung,Condo,3,3.0,1.0,1800.0
+5600.0,lanmadaw,Condo,2,2.0,1.0,589.0
+4230.0,okkalappa south,Condo,2,2.0,5.0,918.0
+7500.0,hlaing,Condo,4,2.0,1.0,1803.0
+6250.0,yankin,Condo,2,2.0,1.0,798.0
+30000.0,mayangone,House,4,3.0,2.0,2400.0
+80000.0,yankin,House,6,6.0,2.0,4800.0
+17000.0,thaketa,House,4,4.0,2.0,3600.0
+3400.0,dagon myothit (north),Condo,2,2.0,7.0,972.0
+2200.0,sanchaung,Apartment,2,1.0,4.0,935.0
+1420.0,thaketa,Apartment,1,1.0,1.0,972.0
+2100.0,thaketa,Apartment,2,2.0,0.5,825.0
+28000.0,mayangone,House,3,3.0,2.0,2400.0
+18000.0,bahan,Condo,2,2.0,1.0,1200.0
+1580.0,tamwe,Apartment,2,1.0,5.0,840.0
+2250.0,okkalappa south,Apartment,1,1.0,2.0,918.0
+3400.0,okkalappa south,Condo,1,1.0,5.0,918.0
+2900.0,thaketa,Condo,2,1.0,8.0,1026.0
+3600.0,okkalappa south,Apartment,1,1.0,1.0,972.0
+18000.0,dagon myothit (east),House,2,2.0,1.0,4125.0
+1550.0,okkalappa south,Apartment,2,2.0,6.0,918.0
+1500.0,hlaing,Apartment,2,1.0,3.0,750.0
+1350.0,sanchaung,Apartment,2,1.0,7.0,750.0
+1250.0,thingangkuun,Apartment,1,1.0,3.0,625.0
+16000.0,dagon myothit (north),House,5,5.0,2.0,2400.0
+1800.0,insein,Apartment,2,1.0,1.0,750.0
+7500.0,dagon myothit (north),House,4,2.0,3.0,1200.0
+12500.0,ahlon,Condo,4,4.0,1.0,2100.0
+30000.0,thingangkuun,House,6,4.0,2.0,2800.0
+20000.0,mayangone,Condo,5,3.0,1.0,1959.0
+2430.0,okkalappa south,Apartment,2,2.0,4.0,972.0
+10500.0,hlaing,Condo,3,3.0,1.0,1800.0
+16000.0,mingalartaungnyunt,Condo,3,3.0,1.0,1485.0
+2150.0,ahlon,Apartment,1,1.0,1.0,750.0
+1180.0,tamwe,Apartment,1,1.0,5.0,825.0
+4200.0,dagon myothit (north),House,2,2.0,1.0,1200.0
+2990.0,mayangone,Condo,2,2.0,2.0,1311.0
+2500.0,botahtaung,Apartment,1,1.0,1.0,625.0
+33000.0,dagon myothit (north),House,5,1.0,4.0,2400.0
+10000.0,hlaing,Condo,3,3.0,1.0,1505.0
+52000.0,mayangone,House,6,6.0,2.0,6400.0
+46000.0,bahan,House,5,3.0,3.5,5600.0
+2650.0,okkalappa south,Apartment,2,1.0,2.0,972.0
+3800.0,dagon myothit (east),House,1,1.0,2.0,1200.0
+16000.0,yankin,Condo,4,4.0,1.0,3180.0
+1680.0,tamwe,Apartment,2,1.0,2.0,780.0
+2750.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+20000.0,okkalappa south,House,2,2.0,2.0,2400.0
+2550.0,thaketa,Condo,2,1.0,7.0,918.0
+78500.0,mayangone,House,5,5.0,5.0,4704.0
+5700.0,sanchaung,Condo,3,2.0,6.0,1800.0
+6500.0,yankin,Condo,3,3.0,3.0,1250.0
+1250.0,dagon myothit (north),Apartment,2,1.0,6.0,1045.0
+2700.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+3200.0,thingangkuun,Apartment,3,2.0,1.0,800.0
+12000.0,dagon myothit (south),House,2,1.0,2.0,1200.0
+3850.0,sanchaung,Apartment,1,2.0,1.0,625.0
+38500.0,thingangkuun,House,7,6.0,2.0,5400.0
+2120.0,okkalappa south,Apartment,3,1.0,2.0,918.0
+2630.0,okkalappa south,Apartment,2,2.0,3.0,972.0
+3800.0,sanchaung,Apartment,2,1.0,1.0,900.0
+12000.0,yankin,Condo,4,4.0,1.0,2160.0
+10600.0,dagon myothit (north),House,4,3.0,2.5,1200.0
+2850.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+3000.0,tamwe,Apartment,1,2.0,1.0,625.0
+12000.0,dagon myothit (north),House,2,2.0,2.0,1380.0
+2800.0,hlaing,Apartment,2,1.0,5.0,990.0
+4520.0,okkalappa south,Apartment,2,2.0,1.0,1458.0
+3750.0,okkalappa south,Condo,2,2.0,5.0,1026.0
+4600.0,okkalappa south,Apartment,3,2.0,1.0,1750.0
+3700.0,thingangkuun,Apartment,4,2.0,4.0,1566.0
+43000.0,sanchaung,House,5,2.0,1.5,2275.0
+49500.0,hlaing,House,4,3.0,2.0,6600.0
+25000.0,hlaing,Condo,4,4.0,1.0,4100.0
+3600.0,sanchaung,Apartment,3,2.0,4.0,1500.0
+2100.0,dagon myothit (south),Apartment,2,2.0,4.0,1175.0
+2790.0,okkalappa north,Condo,2,2.0,7.0,1045.0
+34500.0,okkalappa south,House,5,5.0,2.0,2400.0
+13000.0,dagon myothit (north),House,3,2.0,2.0,1200.0
+45000.0,kamaryut,House,5,4.0,2.0,7700.0
+3200.0,kyeemyindaing,Condo,2,2.0,4.0,900.0
+82000.0,kamaryut,House,7,6.0,2.5,4900.0
+15000.0,yankin,Condo,3,3.0,1.0,2260.0
+27500.0,dagon myothit (north),House,4,4.0,2.5,2400.0
+2100.0,okkalappa south,Apartment,2,2.0,2.0,990.0
+3800.0,tamwe,Apartment,3,2.0,3.0,1200.0
+55000.0,thingangkuun,House,4,5.0,2.5,6007.0
+3900.0,okkalappa south,Condo,2,2.0,1.0,972.0
+32000.0,thingangkuun,House,7,4.0,2.0,6300.0
+3800.0,thanlyin,House,3,1.0,2.0,3240.0
+3300.0,hlaing,Apartment,1,1.0,0.5,800.0
+65000.0,mayangone,House,5,3.0,3.0,6400.0
+2750.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+2950.0,botahtaung,Condo,2,1.0,1.0,650.0
+2150.0,thingangkuun,Apartment,2,1.0,3.0,1250.0
+3790.0,thingangkuun,Apartment,2,2.0,1.0,972.0
+10000.0,yankin,Condo,3,3.0,1.0,1500.0
+2350.0,okkalappa south,Apartment,2,1.0,5.0,972.0
+9200.0,dagon myothit (north),House,3,3.0,2.0,1200.0
+1400.0,tamwe,Apartment,1,1.0,5.0,625.0
+2500.0,dagon myothit (seikkan),Condo,3,2.0,5.0,836.0
+2455.0,okkalappa south,Apartment,2,1.0,1.0,918.0
+8800.0,hlaing,House,4,3.0,8.0,1835.0
+6500.0,sanchaung,Condo,4,2.0,7.0,2000.0
+69000.0,ahlon,House,6,5.0,2.0,6750.0
+2500.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+3450.0,sanchaung,Apartment,3,2.0,4.0,1650.0
+12000.0,hlaing,House,5,3.0,3.0,1495.0
+7800.0,yankin,Condo,2,2.0,1.0,1807.0
+2600.0,thaketa,Condo,2,2.0,1.0,972.0
+7500.0,dagon myothit (north),House,2,1.0,2.0,2400.0
+3400.0,dagon myothit (north),Apartment,2,1.0,4.0,935.0
+14600.0,yankin,Condo,2,3.0,5.0,1771.0
+14.0,lanmadaw,Condo,1,1.0,12.0,405.0
+11500.0,yankin,Condo,3,3.0,1.0,1500.0
+12500.0,ahlon,Condo,4,4.0,1.0,3200.0
+10500.0,insein,House,2,1.0,2.0,3100.0
+29500.0,okkalappa south,House,5,1.0,2.0,5400.0
+1550.0,dagon myothit (south),Apartment,2,2.0,6.0,838.0
+35000.0,thingangkuun,House,5,5.0,2.5,2600.0
+2950.0,okkalappa south,Condo,2,2.0,2.0,972.0
+3300.0,tamwe,Apartment,3,1.0,6.0,1200.0
+1495.0,thaketa,Apartment,2,1.0,3.0,1026.0
+1520.0,thaketa,Apartment,2,1.0,1.0,972.0
+4200.0,dagon myothit (north),House,2,1.0,1.0,1200.0
+3500.0,dagon myothit (seikkan),House,1,2.0,1.0,1200.0
+900.0,dawbon,Apartment,1,1.0,2.0,625.0
+15500.0,yankin,Condo,7,7.0,1.0,2800.0
+38500.0,dagon myothit (north),House,3,2.0,2.0,4015.0
+2360.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+27000.0,thingangkuun,House,3,3.0,2.0,3600.0
+11500.0,yankin,Condo,3,3.0,1.0,1750.0
+6400.0,hlaing,Condo,4,3.0,1.0,1400.0
+1750.0,thingangkuun,Apartment,2,1.0,3.0,990.0
+28000.0,hlaingtharya,House,7,6.0,2.0,12800.0
+42000.0,okkalappa south,House,4,5.0,2.0,2700.0
+4350.0,kyeemyindaing,Apartment,2,1.0,3.0,1250.0
+600.0,thingangkuun,Apartment,1,1.0,4.0,625.0
+17000.0,kyeemyindaing,House,4,1.0,3.0,1250.0
+1675.0,dawbon,Condo,1,1.0,8.0,1026.0
+4550.0,okkalappa south,Apartment,2,2.0,1.0,972.0
+7950.0,dagon myothit (north),House,7,3.0,3.0,1200.0
+970.0,thaketa,Apartment,2,1.0,6.0,972.0
+3500.0,kamaryut,Apartment,3,2.0,5.0,1200.0
+73000.0,hlaing,House,5,5.0,2.0,4200.0
+8899.0,mayangone,Condo,2,2.0,1.0,1000.0
+1700.0,sanchaung,Condo,1,1.0,1.0,625.0
+9500.0,mayangone,Condo,2,2.0,1.0,950.0
+1420.0,okkalappa south,Apartment,1,1.0,6.0,972.0
+1600.0,thingangkuun,Apartment,2,1.0,4.0,972.0
+1050.0,thingangkuun,Apartment,1,1.0,5.0,650.0
+3100.0,okkalappa south,Apartment,1,2.0,1.0,972.0
+1180.0,thingangkuun,Apartment,1,1.0,4.0,625.0
+950.0,thaketa,Apartment,2,1.0,6.0,990.0
+3500.0,dagon myothit (east),House,1,1.0,2.0,1320.0
+25000.0,dagon myothit (north),House,7,6.0,3.0,2400.0
+30000.0,latha,Apartment,2,1.0,0.5,1620.0
+35000.0,yankin,House,6,3.0,3.5,2400.0
+930.0,okkalappa north,Apartment,2,1.0,5.0,780.0
+2970.0,okkalappa south,Apartment,2,1.0,4.0,918.0
+8900.0,hlaing,Condo,3,3.0,1.0,1364.0
+85000.0,bahan,House,6,7.0,2.0,2800.0
+13000.0,thingangkuun,Apartment,2,2.0,1.0,1190.0
+12500.0,dagon myothit (north),House,4,2.0,3.5,1200.0
+3000.0,mayangone,Condo,2,2.0,5.0,867.0
+40000.0,okkalappa south,House,4,3.0,2.0,2400.0
+28000.0,hlaing,House,3,3.0,2.0,4000.0
+12500.0,dagon myothit (north),House,4,4.0,2.0,2400.0
+3350.0,ahlon,Apartment,2,1.0,1.0,900.0
+9800.0,dagon myothit (north),House,4,2.0,2.0,2400.0
+2000.0,dagon myothit (north),House,2,1.0,2.0,1200.0
+13500.0,okkalappa south,House,3,4.0,2.0,1200.0
+9200.0,dagon myothit (north),House,3,2.0,2.0,1200.0
+4100.0,mayangone,Condo,3,2.0,1.0,1250.0
+2500.0,okkalappa south,Apartment,2,2.0,4.0,990.0
+15000.0,dagon myothit (south),House,2,1.0,2.0,3600.0
+11500.0,yankin,Condo,3,3.0,1.0,1750.0
+550000.0,sanchaung,House,5,1.0,2.0,0.52
+25000.0,thingangkuun,House,4,1.0,2.0,7200.0
+12000.0,kamaryut,Condo,2,2.0,10.0,987.0
+150000.0,yankin,Condo,3,2.0,1.0,1771.0
+17500.0,yankin,House,2,3.0,2.0,2500.0
+8500.0,thingangkuun,Condo,3,3.0,1.0,1500.0
+4500.0,dagon myothit (north),House,3,2.0,2.0,1200.0
+85000.0,mayangone,House,7,5.0,3.0,7100.0
+6500.0,botahtaung,Condo,3,2.0,1.0,1717.0
+2970.0,okkalappa south,Apartment,2,2.0,2.0,972.0
+18500.0,thaketa,House,3,2.0,1.0,2400.0
+17540.0,bahan,Apartment,3,3.0,20.0,1754.0
+7800.0,dagon myothit (north),House,3,1.0,2.0,1800.0
+55000.0,kamaryut,House,4,4.0,2.0,4800.0
+6000.0,thingangkuun,Condo,3,3.0,1.0,1550.0
+24000.0,mayangone,House,4,4.0,2.0,3136.0
+1600.0,kyeemyindaing,Apartment,2,1.0,4.0,625.0
+5300.0,thingangkuun,Condo,2,2.0,1.0,1053.0
+15000.0,dagon myothit (north),House,4,4.0,2.5,2400.0
+6500.0,mayangone,Condo,2,2.0,1.0,1800.0
+2790.0,okkalappa south,Apartment,2,2.0,4.0,918.0
+22000.0,yankin,House,7,6.0,2.0,4125.0
+2700.0,botahtaung,Condo,2,1.0,1.0,650.0
+2000.0,pazundaung,Apartment,2,1.0,6.0,990.0
+2300.0,sanchaung,Apartment,1,1.0,1.0,750.0
+7800.0,ahlon,Condo,3,2.0,1.0,1825.0
+15000.0,thaketa,House,3,1.0,2.0,2400.0
+30000.0,mayangone,House,4,4.0,2.0,4955.0
+1800.0,tamwe,Apartment,1,1.0,5.0,1050.0
+120000.0,bahan,House,5,4.0,3.0,3600.0
+4700.0,pazundaung,Condo,2,2.0,7.0,1500.0
+4500.0,lanmadaw,Apartment,2,2.0,2.0,1250.0
+13500.0,thingangkuun,House,2,1.0,2.0,1200.0
+2250.0,okkalappa south,Apartment,4,1.0,5.0,1265.0
+20000.0,mingaladon,House,7,7.0,1.0,12600.0
+1900.0,okkalappa north,Apartment,1,1.0,1.0,1026.0
+6500.0,thingangkuun,Condo,3,3.0,1.0,1750.0
+15000.0,mayangone,Condo,3,3.0,1.0,1870.0
+4300.0,thingangkuun,Apartment,2,2.0,1.0,1800.0
+7000.0,dagon myothit (north),House,4,4.0,2.0,1200.0
+2550.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+45000.0,thingangkuun,House,6,6.0,3.0,3500.0
+8500.0,thingangkuun,House,1,1.0,2.0,1200.0
+35000.0,thingangkuun,House,4,4.0,2.0,9600.0
+6700.0,thingangkuun,House,4,2.0,2.0,1000.0
+18500.0,thingangkuun,House,3,3.0,2.0,3600.0
+11500.0,mayangone,Condo,3,3.0,1.0,1260.0
+3800.0,sanchaung,Apartment,2,1.0,1.0,1170.0
+6600.0,yankin,Condo,2,2.0,1.0,942.0
+16500.0,ahlon,Condo,5,5.0,1.0,2360.0
+7200.0,yankin,Condo,3,2.0,6.0,1750.0
+20000.0,dagon myothit (north),House,2,2.0,2.0,2400.0
+17800.0,dagon myothit (north),House,2,2.0,2.0,2400.0
+36000.0,mayangone,House,5,4.0,2.0,4500.0
+10000.0,mayangone,Condo,2,2.0,1.0,1000.0
+56000.0,mayangone,House,4,2.0,1.5,4600.0
+2800.0,hlaing,Apartment,2,1.0,4.0,990.0
+18000.0,thingangkuun,House,3,3.0,2.0,2400.0
+950.0,mayangone,Apartment,1,1.0,3.0,625.0
+1650.0,thaketa,Apartment,1,1.0,3.0,1045.0
+10500.0,dagon myothit (east),House,4,4.0,2.0,2850.0
+9800.0,okkalappa south,House,2,2.0,2.0,1200.0
+27500.0,mayangone,House,5,5.0,3.0,3025.0
+55000.0,hlaingtharya,House,5,4.0,2.0,11000.0
+7000.0,thingangkuun,House,3,3.0,2.0,1325.0
+6300.0,dagon,Condo,3,3.0,5.0,1700.0
+9500.0,yankin,Condo,3,3.0,1.0,1100.0
+4550.0,thingangkuun,Apartment,3,2.0,1.0,972.0
+15500.0,yankin,Condo,7,7.0,1.0,2800.0
+26000.0,mayangone,House,5,2.0,2.0,3000.0
+21500.0,ahlon,Condo,4,2.0,1.0,3308.0
+42000.0,bahan,House,4,4.0,3.0,2904.0
+3500.0,kamaryut,Condo,2,2.0,5.0,1250.0
+3750.0,okkalappa south,Apartment,2,1.0,1.0,918.0
+65800.0,mayangone,House,7,7.0,3.0,5044.0
+26000.0,ahlon,House,4,4.0,2.0,4680.0
+850.0,dawbon,Apartment,1,1.0,6.0,625.0
+12600.0,dagon myothit (north),House,4,4.0,3.0,1320.0
+45000.0,mayangone,House,7,5.0,2.5,3398.0
+1685.0,sanchaung,Apartment,1,1.0,5.0,687.5
+1740.0,sanchaung,Apartment,1,1.0,4.0,625.0
+9000.0,mayangone,Condo,3,2.0,1.0,1260.0
+23870.0,mingalartaungnyunt,Condo,3,4.0,1.0,2170.0
+9000.0,dagon myothit (south),House,3,4.0,2.0,4896.0
+1550.0,okkalappa south,Apartment,2,2.0,6.0,918.0
+4950.0,kyeemyindaing,Condo,2,2.0,1.0,1250.0
+7500.0,yankin,Condo,3,3.0,6.0,1380.0
+6800.0,thingangkuun,Condo,3,3.0,1.0,1974.0
+8500.0,insein,House,5,6.0,2.0,3420.0
+1600.0,dagon myothit (north),Apartment,1,1.0,5.0,972.0
+4800.0,okkalappa south,Apartment,3,3.0,1.0,1045.0
+5000.0,hlaing,Condo,2,2.0,1.0,855.0
+6500.0,lanmadaw,Condo,2,2.0,1.0,929.0
+2000.0,yankin,Apartment,2,1.0,1.0,500.0
+3050.0,tamwe,Apartment,1,1.0,1.0,825.0
+2370.0,sanchaung,Apartment,2,1.0,5.0,969.0
+7000.0,mayangone,Condo,2,2.0,1.0,795.0
+2350.0,thaketa,Apartment,1,1.0,1.0,972.0
+8000.0,bahan,Condo,3,3.0,1.0,1432.0
+5550.0,thanlyin,Condo,3,2.0,5.0,1185.0
+15600.0,hlaing,Condo,4,4.0,1.0,2600.0
+7900.0,yankin,Condo,3,3.0,1.0,1298.0
+13500.0,yankin,Condo,3,3.0,1.0,1479.0
+8000.0,hlaing,Condo,2,2.0,1.0,908.0
+3800.0,okkalappa south,Condo,2,2.0,1.0,1026.0
+8500.0,hlaing,Condo,2,2.0,1.0,908.0
+38000.0,dagon myothit (north),House,6,7.0,3.0,5940.0
+7700.0,yankin,Condo,3,2.0,6.0,1298.0
+4000.0,thingangkuun,Condo,2,2.0,7.0,1530.05
+15000.0,yankin,Condo,2,2.0,1.0,1771.0
+6700.0,okkalappa south,House,3,2.0,3.0,1380.0
+2250.0,okkalappa south,Apartment,1,1.0,3.0,918.0
+4250.0,okkalappa south,Condo,2,2.0,5.0,918.0
+37000.0,mayangone,House,6,4.0,2.0,6110.0
+12600.0,dagon myothit (north),House,4,4.0,2.0,1200.0
+3700.0,tamwe,Apartment,3,2.0,1.0,687.5
+3800.0,mingaladon,Condo,2,2.0,4.0,1000.0
+8500.0,dagon myothit (north),House,4,3.0,2.5,1200.0
+42500.0,kamaryut,House,3,2.0,2.0,1250.0
+1100.0,tamwe,Apartment,1,1.0,6.0,625.0
+6000.0,kyauktada,Condo,3,2.0,6.0,1250.0
+3650.0,okkalappa south,Condo,2,1.0,4.0,1026.0
+3500.0,thanlyin,Condo,2,1.0,5.0,720.0
+6500.0,yankin,Condo,3,3.0,3.0,1250.0
+2400.0,tamwe,Apartment,2,1.0,4.0,1200.0
+16500.0,dagon myothit (north),House,5,2.0,2.0,2400.0
+3600.0,okkalappa south,Condo,2,2.0,5.0,990.0
+5700.0,sanchaung,Condo,3,2.0,1.0,1800.0
+1300.0,sanchaung,Apartment,1,1.0,1.0,625.0
+55000.0,thingangkuun,House,4,4.0,2.0,6007.0
+39990.0,thingangkuun,House,5,4.0,2.5,5314.0
+1900.0,thaketa,Condo,1,1.0,6.0,896.0
+1339.0,thingangkuun,Apartment,1,1.0,3.0,625.0
+2800.0,tamwe,Apartment,2,1.0,3.0,1120.0
+2990.0,okkalappa south,Apartment,2,1.0,3.0,972.0
+8695.0,insein,House,3,3.0,2.0,1452.0
+8.0,okkalappa south,Condo,3,2.0,7.0,1045.0
+49999.0,hlaing,House,4,3.0,2.0,4800.0
+4000.0,dagon,Apartment,2,1.0,2.0,1125.0
+1445.0,mingalartaungnyunt,Apartment,1,1.0,3.0,720.0
+39500.0,dagon myothit (north),House,6,8.0,3.0,2400.0
+9500.0,yankin,Condo,2,2.0,1.0,1168.0
+62500.0,hlaingtharya,House,6,6.0,2.0,11000.0
+1200.0,dagon myothit (north),Apartment,1,1.0,4.0,1026.0
+68000.0,ahlon,House,5,4.0,2.0,4085.0
+13500.0,dagon myothit (south),House,4,2.0,2.0,3600.0
+8500.0,thingangkuun,Condo,4,4.0,1.0,1801.0
+38300.0,yankin,House,5,3.0,2.0,5625.0
+4200.0,kyeemyindaing,Condo,3,2.0,8.0,1670.0
+21000.0,yankin,Condo,3,3.0,1.0,1669.0
+23000.0,dagon myothit (north),House,4,3.0,1.0,2400.0
+5300.0,yankin,Condo,1,1.0,9.0,520.0
+45000.0,mayangone,House,7,6.0,3.0,2976.0
+1780.0,sanchaung,Apartment,1,1.0,6.0,700.0
+7500.0,yankin,Condo,3,3.0,6.0,1380.0
+11730.0,mayangone,Condo,3,3.0,1.0,1564.0
+15000.0,yankin,Condo,3,3.0,1.0,1620.0
+15000.0,mayangone,Condo,2,2.0,1.0,1865.0
+850.0,thingangkuun,Apartment,1,1.0,6.0,625.0
+20000.0,mingaladon,House,7,3.0,2.0,10904.0
+5600.0,hlaing,Apartment,2,2.0,0.5,962.5
+22000.0,mayangone,House,4,4.0,2.0,2250.0
+2350.0,insein,Condo,2,1.0,5.0,972.0
+13000.0,dagon myothit (north),House,4,3.0,2.0,3575.0
+12000.0,dagon myothit (north),House,5,3.0,3.5,1380.0
+2350.0,okkalappa south,Apartment,2,1.0,1.0,972.0
+65000.0,mayangone,House,5,3.0,2.0,5625.0
+3500.0,tamwe,Condo,1,2.0,1.0,1150.0
+20000.0,okkalappa south,House,4,4.0,2.0,2600.0
+11500.0,lanmadaw,Condo,4,4.0,1.0,1439.0
+12300.0,thaketa,House,3,3.0,3.0,1250.0
+12000.0,dagon myothit (north),House,2,1.0,2.0,2400.0
+35000.0,dagon myothit (north),House,5,5.0,3.0,4225.0
+45000.0,yankin,House,4,3.0,2.0,2640.0
+27000.0,bahan,Condo,3,3.0,1.0,2700.0
+8800.0,hlaing,Condo,4,4.0,1.0,1834.0
+68000.0,mayangone,House,6,6.0,3.0,3016.0
+1300.0,tamwe,Apartment,1,1.0,4.0,750.0
+12300.0,thaketa,House,3,3.0,3.0,1250.0
+20000.0,bahan,House,6,6.0,4.0,6316.0
+33000.0,thingangkuun,House,3,2.0,2.0,2000.0
+50000.0,dagon myothit (north),House,5,5.0,2.0,8400.0
+9500.0,mingalartaungnyunt,Apartment,3,3.0,1.0,825.0
+1250.0,hlaing,Apartment,2,1.0,6.0,750.0
+1480.0,tamwe,Apartment,2,2.0,4.0,980.0
+15000.0,yankin,Condo,3,3.0,1.0,1620.0
+11800.0,dagon myothit (north),House,3,2.0,2.0,2400.0
+1050.0,dawbon,Apartment,1,1.0,1.0,625.0
+5500.0,okkalappa north,House,2,2.0,1.0,2400.0
+1790.0,thaketa,Apartment,2,1.0,5.0,1026.0
+4230.0,okkalappa south,Condo,2,2.0,5.0,918.0
+12500.0,dagon myothit (north),House,2,2.0,2.0,2400.0
+4550.0,thingangkuun,Condo,2,2.0,3.0,918.0
+700.0,thanlyin,House,2,1.0,1.0,675.0
+48000.0,mayangone,House,2,2.0,2.0,10000.0
+1250.0,thingangkuun,Apartment,1,1.0,4.0,600.0
+11500.0,yankin,Condo,3,2.0,4.0,1685.0
+4300.0,dagon myothit (east),House,1,2.0,1.0,2400.0
+18800.0,kamaryut,Condo,3,3.0,29.0,1620.0
+1330.0,mayangone,Apartment,1,1.0,5.0,630.0
+1350.0,thaketa,Apartment,2,1.0,6.0,972.0
+6700.0,dagon,Condo,2,2.0,6.0,1700.0
+45000.0,mayangone,House,4,4.0,2.0,7700.0
+3100.0,yankin,House,3,1.0,2.0,720.0
+3490.0,okkalappa south,Condo,2,2.0,5.0,1026.0
+3790.0,thingangkuun,Apartment,2,2.0,1.0,972.0
+920.0,thingangkuun,Apartment,2,1.0,3.0,625.0
+2300.0,okkalappa south,Apartment,2,1.0,2.0,918.0
+5200.0,hlaing,Condo,2,2.0,4.0,1088.0
+5000.0,okkalappa south,House,2,1.0,2.0,1200.0
+1050.0,dawbon,Apartment,2,1.0,2.0,625.0
+13500.0,bahan,Condo,3,3.0,1.0,1317.0
+2990.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+2500.0,thingangkuun,Apartment,3,2.0,2.0,900.0
+40000.0,mayangone,House,5,3.0,2.0,4860.0
+6400.0,thingangkuun,Condo,2,2.0,1.0,1059.0
+118000.0,bahan,House,6,7.0,3.5,6011.0
+880.0,thingangkuun,Apartment,2,1.0,4.0,625.0
+2900.0,yankin,Apartment,4,3.0,0.5,2000.0
+38500.0,thingangkuun,House,7,6.0,2.0,5400.0
+35800.0,dagon myothit (north),House,4,2.0,2.0,4015.0
+11000.0,hlaing,Condo,4,2.0,20.0,1505.0
+2500.0,thingangkuun,Apartment,2,1.0,1.0,1140.0
+12400.0,dagon myothit (north),House,4,2.0,3.5,1200.0
+43000.0,mayangone,House,5,5.0,1.5,0.24
+4500.0,sanchaung,Apartment,2,2.0,1.0,1025.0
+4550.0,okkalappa south,Apartment,2,3.0,0.5,972.0
+2300.0,dagon myothit (north),Apartment,3,1.0,2.0,1026.0
+2900.0,okkalappa south,Apartment,2,1.0,4.0,972.0
+15500.0,hlaing,Condo,3,3.0,1.0,2150.0
+3800.0,dagon myothit (south),House,3,1.0,2.0,1200.0
+19000.0,kamaryut,House,5,4.0,2.0,2040.0
+2400.0,dagon myothit (north),Apartment,2,1.0,1.0,600.0
+1200.0,thingangkuun,Apartment,2,2.0,4.0,990.0
+1250.0,okkalappa south,Apartment,2,1.0,6.0,625.0
+1700.0,tamwe,Apartment,2,1.0,6.0,1375.0
+1490.0,thingangkuun,Apartment,1,1.0,1.0,625.0
+1830.0,dawbon,Apartment,1,1.0,1.0,625.0
+13000.0,hlaingtharya,Condo,3,3.0,1.0,2400.0
+45000.0,mayangone,House,6,6.0,3.0,7200.0
+1350.0,dawbon,Apartment,1,1.0,2.0,715.0
+2850.0,okkalappa south,Condo,2,1.0,4.0,972.0
+4750.0,dagon myothit (north),House,2,1.0,1.5,1200.0
+4800.0,mingaladon,Condo,3,2.0,3.0,1260.0
+2700.0,pazundaung,Apartment,2,1.0,5.0,900.0
+22000.0,mayangone,House,5,5.0,2.0,4400.0
+3200.0,dagon myothit (north),Apartment,1,2.0,1.0,918.0
+32000.0,thingangkuun,House,7,4.0,2.0,6300.0
+18000.0,yankin,House,5,3.0,2.5,1263.0
+1200.0,dagon myothit (north),Apartment,1,1.0,4.0,1026.0
+40000.0,mayangone,House,4,2.0,2.5,3600.0
+55000.0,ahlon,House,3,3.0,2.0,7200.0

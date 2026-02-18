@@ -1,0 +1,106 @@
+[2026-02-18 19:28:41,830] - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-18 19:28:41,840] - dagshub - INFO - Accessing as Kay-Sap5
+[2026-02-18 19:28:42,950] - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Kay-Sap5/Yangon_House_Price "HTTP/1.1 200 OK"
+[2026-02-18 19:28:44,056] - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-18 19:28:44,060] - dagshub - INFO - Initialized MLflow to track repo "Kay-Sap5/Yangon_House_Price"
+[2026-02-18 19:28:44,061] - dagshub - INFO - Repository Kay-Sap5/Yangon_House_Price initialized!
+[2026-02-18 19:28:44,065] - root - INFO - Training PipleLine (start_data_ingestion)
+[2026-02-18 19:28:44,065] - root - INFO - Entered initiate_data_ingestion
+[2026-02-18 19:28:44,069] - root - INFO - Entered_get_collection_data
+[2026-02-18 19:28:44,820] - root - INFO - extract data successfully
+[2026-02-18 19:28:54,709] - root - INFO - DataFrame Created , file shape = ((11574, 8))
+[2026-02-18 19:28:54,716] - root - INFO - Deleting the (_id) column from the dataframe
+[2026-02-18 19:28:54,791] - root - INFO - DataFrame Saved
+[2026-02-18 19:28:54,792] - root - INFO - Training PipleLine (start_data_preprocessing)
+[2026-02-18 19:28:54,792] - root - INFO - Entered Data Preprocessing
+[2026-02-18 19:28:54,912] - root - INFO - DataFrame Loaded , shape (11574, 7)
+[2026-02-18 19:28:54,912] - root - INFO - Entering end_to_end_processing ............................................#####
+[2026-02-18 19:28:54,912] - root - INFO - Step 1
+[2026-02-18 19:28:54,930] - root - INFO - Dropped Duplicate , shape (11503, 7)
+[2026-02-18 19:28:54,930] - root - INFO - Step 1 , Completed
+[2026-02-18 19:28:54,930] - root - INFO - Step 2
+[2026-02-18 19:28:54,932] - root - INFO - Columns LeftIndex(['price', 'address', 'key_value'], dtype='object')
+[2026-02-18 19:28:54,932] - root - INFO - Step 2 , Completed
+[2026-02-18 19:28:54,932] - root - INFO - Step 3
+[2026-02-18 19:28:54,992] - root - INFO - Step 3 , Completed
+[2026-02-18 19:28:54,992] - root - INFO - Step 4
+[2026-02-18 19:28:55,106] - root - INFO - New Shape => (11484, 4)
+[2026-02-18 19:28:55,107] - root - INFO - Step 4 , Completed
+[2026-02-18 19:28:55,107] - root - INFO - Step 5
+[2026-02-18 19:28:55,153] - root - INFO - Key Value Dataframe  Created , Shape = (11484, 14)
+[2026-02-18 19:28:55,153] - root - INFO - Step 5 Completed
+[2026-02-18 19:28:55,153] - root - INFO - Step 6
+[2026-02-18 19:28:55,155] - root - INFO - Step 6 , Completed
+[2026-02-18 19:28:55,155] - root - INFO - Step 7
+[2026-02-18 19:28:55,158] - root - INFO - Step 7 , Completed
+[2026-02-18 19:28:55,158] - root - INFO - Step 8
+[2026-02-18 19:28:55,162] - root - INFO - ft_square_1
+[2026-02-18 19:28:55,172] - root - INFO - ft_square_2
+[2026-02-18 19:28:55,177] - root - INFO - ft_square_3
+[2026-02-18 19:28:55,177] - root - INFO - ft_square
+[2026-02-18 19:28:55,178] - root - INFO - Dropped ['Area','area_x_y','acre','ft_square_1','ft_square_2','ft_square_3']
+[2026-02-18 19:28:55,179] - root - INFO - key_value_df (8825, 5)
+[2026-02-18 19:28:55,179] - root - INFO - Step 8 , Completed
+[2026-02-18 19:28:55,179] - root - INFO - Step 9
+[2026-02-18 19:28:55,180] - root - INFO - Step 9 ,Completed
+[2026-02-18 19:28:55,180] - root - INFO - Step 10
+[2026-02-18 19:28:55,180] - root - INFO - Step 10 , Completed
+[2026-02-18 19:28:55,180] - root - INFO - Step 11
+[2026-02-18 19:28:55,269] - root - INFO - Concatinating 2 DataFrames
+[2026-02-18 19:28:55,273] - root - INFO - Got New DataFrame , shape = (11484, 9)
+[2026-02-18 19:28:55,273] - root - INFO - Result columns : Index(['price', 'key_value', 'state', 'city', 'Type', 'Bed Room', 'Bath Room',
+       'Floor', 'ft_square'],
+      dtype='object')
+[2026-02-18 19:28:55,273] - root - INFO - Step 11 , Completed
+[2026-02-18 19:28:55,273] - root - INFO - Step 12
+[2026-02-18 19:28:55,277] - root - INFO - Drop na Done , new result shape  = (2183, 7)
+[2026-02-18 19:28:55,277] - root - INFO - Finishing end_to_end_processing  Successfully............................................#####
+[2026-02-18 19:28:55,285] - root - INFO - full data saved
+[2026-02-18 19:28:55,292] - root - INFO - train and test data saved
+[2026-02-18 19:28:55,293] - root - INFO - Training PipleLine (start_data_validation)
+[2026-02-18 19:28:55,391] - root - INFO - Entered validate_data_columns
+[2026-02-18 19:28:55,398] - root - INFO - Full Columns matches Successfully
+[2026-02-18 19:28:55,398] - root - INFO - Numerical Columns matches Successfully
+[2026-02-18 19:28:55,398] - root - INFO - Categorical Columns matches Successfully
+[2026-02-18 19:28:55,398] - root - INFO - Data Columns Validated Successfully.......
+[2026-02-18 19:28:55,412] - root - INFO - Valid Data Saved 
+[2026-02-18 19:28:55,413] - root - INFO - Training PipleLine (start_data_feature_engineering)
+[2026-02-18 19:28:55,413] - root - INFO - Entered initiate_data_feature_engineering
+[2026-02-18 19:28:55,413] - root - INFO - Getting Error here , Artifacts\18_02_2026_19_28_08\data_validation\valid\train.csv
+[2026-02-18 19:28:55,536] - root - INFO - Train and Test Data Loaded.....
+[2026-02-18 19:28:55,543] - root - INFO - Train and Test Price column Outlier Treated
+[2026-02-18 19:28:55,546] - root - INFO - Train and Test Ft_Square column Outlier Treated
+[2026-02-18 19:28:55,550] - root - INFO - Train and Test City Column arranged
+[2026-02-18 19:28:55,551] - root - INFO - Train and Test Floor Column arranged
+[2026-02-18 19:28:55,578] - root - INFO - Training PipleLine (start_data_transformation)
+[2026-02-18 19:28:55,671] - root - INFO - --------------------------Columns order-----------------------------
+[2026-02-18 19:28:55,671] - root - INFO -      price                   city       type  bed_room  bath_room  floor  ft_square
+0   1600.0                thaketa  Apartment         2        1.0      4     1026.0
+1  15000.0  dagon myothit (north)      House         2        1.0      1     2400.0
+2   1545.0  dagon myothit (north)      House         2        1.0      1      750.0
+[2026-02-18 19:28:55,685] - root - INFO - --------------------------------------------------------------------
+[2026-02-18 19:28:55,685] - root - INFO - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[2026-02-18 19:28:55,689] - root - INFO - None
+[2026-02-18 19:28:55,689] - root - INFO - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[2026-02-18 19:28:55,713] - root - WARNING - Transformed Train Data shape = (1746, 23) , Transformed Test Data Shape = (437, 23)
+[2026-02-18 19:28:55,713] - root - INFO - Train Feature (1746, 6) , Target (1746,)
+[2026-02-18 19:28:55,715] - root - INFO - Complete Save Arr To Numpy File , Successfully....
+[2026-02-18 19:28:55,717] - root - INFO - Complete Save Arr To Numpy File , Successfully....
+[2026-02-18 19:28:55,717] - root - INFO - Entered initiate_model_training.......
+[2026-02-18 19:28:55,752] - root - INFO - Train and Test Array Loaded...
+[2026-02-18 19:28:55,769] - root - INFO - Preprocessor File Loaded...
+[2026-02-18 19:28:55,769] - root - INFO - Entered model_trainer method
+[2026-02-18 19:40:56,240] - root - INFO - Entered final_best_model method
+[2026-02-18 19:40:56,240] - root - INFO - Model = RandomForestRegressor , R2_Score =  0.8716587157199188
+[2026-02-18 19:40:56,243] - root - INFO - Entered NetworkModel Object
+[2026-02-18 19:40:58,051] - root - INFO - tack ml flow runned 1
+[2026-02-18 19:40:58,051] - root - INFO - trackml_flow runned..2
+[2026-02-18 19:41:00,076] - root - INFO - ml flow runned 3 .. 
+[2026-02-18 19:41:30,176] - root - INFO - mlflow run successfully..
+[2026-02-18 19:41:31,539] - root - INFO - tack ml flow runned 1
+[2026-02-18 19:41:31,540] - root - INFO - trackml_flow runned..2
+[2026-02-18 19:41:33,453] - root - INFO - ml flow runned 3 .. 
+[2026-02-18 19:41:49,835] - root - INFO - mlflow run successfully..
+[2026-02-18 19:41:50,934] - root - INFO - Train Shape = (1746, 23) , Test Shape = (437, 23)
+[2026-02-18 19:41:50,934] - root - INFO - Train Evaluation Metric ModelEvaluationMetricsArtifact(r2_score=0.9740588919247058, mean_absolute_error=1000.8345245703847, mean_square_error=3587300.2018473507, root_mean_square_error=1894.0169486695072, mean_absolute_percentage_error=0.5439038823828958)
+[2026-02-18 19:41:50,934] - root - INFO - Test Evaluation Metric ModelEvaluationMetricsArtifact(r2_score=0.8716587157199188, mean_absolute_error=2267.350152449016, mean_square_error=17457002.7952005, root_mean_square_error=4178.157823156098, mean_absolute_percentage_error=0.2595850071441871)
