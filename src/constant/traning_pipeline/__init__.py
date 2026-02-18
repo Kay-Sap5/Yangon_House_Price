@@ -53,6 +53,7 @@ MODEL_TRAINING_PREPROCESSOR_FILE_NAME = 'preprocessor.pkl'
 MODEL_TRAINING_FINAL_MODEL_DIR = 'final_model'
 MODEL_TRAINING_FINAL_MODEL_FILE_NAME = 'final_model.pkl'
 
+BEST_FINAL_MODEL_DIR = 'Best_Final_Model'
 
 
 

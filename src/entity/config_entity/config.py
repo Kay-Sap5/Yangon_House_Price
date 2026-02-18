@@ -192,5 +192,9 @@ class ModelTrainingConfig:
                self.model_training_final_model_file_path = os.path.join(
                     self.model_training_final_model_dir , traning_pipeline.MODEL_TRAINING_FINAL_MODEL_FILE_NAME
                )
+
+               self.best_final_model_file_path = os.path.join(
+                    traning_pipeline.BEST_FINAL_MODEL_DIR , traning_pipeline.MODEL_TRAINING_FINAL_MODEL_FILE_NAME
+               )
           except Exception as e:
                raise CustomException(e,sys)

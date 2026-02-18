@@ -1,19 +1,19 @@
 full_columns :
 - price
 - city
-- Type
-- Bed Room
-- Bath Room
-- Floor
+- type
+- bed_room
+- bath_room
+- floor
 - ft_square
 
 cat_columns:
 - city
-- Type
+- type
 
 num_columns:
 - price
-- Bed Room
-- Bath Room
-- Floor
+- bed_room
+- bath_room
+- floor
 - ft_square

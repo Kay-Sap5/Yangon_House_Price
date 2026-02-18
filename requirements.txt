@@ -11,4 +11,8 @@ certifi
 requests
 pymongo
 pyyaml
+pydantic
+fastapi
+uvicorn
+mlflow
 # -e .

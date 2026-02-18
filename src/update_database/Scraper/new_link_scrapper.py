@@ -13,7 +13,7 @@ import sys
 
 class ScrapeNewLink:
     def __init__(self):
-        self.num_of_pages :int = 20
+        self.num_of_pages :int = 100
         self.links_file_path :str= LINK_SCRAPPER_SAVED_LINK_FILE_PATH
         self.headers = {
                         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',

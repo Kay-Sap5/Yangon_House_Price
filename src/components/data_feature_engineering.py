@@ -38,7 +38,7 @@ class DataFeatureEngineering:
         
     def arrange_cat(self,train : pd.DataFrame ,
                         test : pd.DataFrame , 
-                        column : str , threshold = 20 , replacing :str = "Others"):
+                        column : str , threshold = 20 , replacing :str = "others"):
         try:
             count = train[column].value_counts()
             rare_count = count[count<threshold].index
@@ -59,6 +59,7 @@ class DataFeatureEngineering:
     def initiate_data_feature_engineering(self):
         logging.info('Entered initiate_data_feature_engineering')
         try:
+            logging.info(f"Getting Error here , {self.data_validation_artifact.valid_train_file_path}")
             self.train_data = pd.read_csv(self.data_validation_artifact.valid_train_file_path)
             self.test_data  = pd.read_csv(self.data_validation_artifact.valid_test_file_path) 
             logging.info("Train and Test Data Loaded.....")
@@ -78,9 +79,9 @@ class DataFeatureEngineering:
                                                                       threshold=20)
             logging.info("Train and Test City Column arranged")
 
-            self.train_data['Floor'] , self.test_data['Floor'] = self.arrange_floor(train=self.train_data,
+            self.train_data['floor'] , self.test_data['floor'] = self.arrange_floor(train=self.train_data,
                                                                       test=self.test_data,
-                                                                      column='Floor',
+                                                                      column='floor',
                                                                       threshold=6)
            
 
@@ -94,8 +95,8 @@ class DataFeatureEngineering:
             os.makedirs(os.path.dirname(self.data_feature_engineering_config.feature_engineering_train_file_path),exist_ok=True)
             os.makedirs(os.path.dirname(self.data_feature_engineering_config.feature_engineering_test_file_path),exist_ok=True)
 
-            self.train_data.to_csv(self.data_feature_engineering_config.feature_engineering_train_file_path)
-            self.test_data.to_csv(self.data_feature_engineering_config.feature_engineering_test_file_path)
+            self.train_data.to_csv(self.data_feature_engineering_config.feature_engineering_train_file_path , index = False , header = True)
+            self.test_data.to_csv(self.data_feature_engineering_config.feature_engineering_test_file_path , index = False , header = True)
 
             data_feature_engineering_artifact = DataFeatureEngineeringArtifact(
                     feature_engineering_train_file_path=self.data_feature_engineering_config.feature_engineering_train_file_path,

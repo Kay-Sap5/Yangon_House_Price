@@ -61,6 +61,12 @@ class DataTransformation:
             test_feature = test_data.drop(columns = TARGET_NAME)
             test_target  = test_data[TARGET_NAME]
 
+            logging.info("--------------------------Columns order-----------------------------")
+            logging.info(train_data.head(3))
+            logging.info("--------------------------------------------------------------------")
+            logging.info("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
+            logging.info(test_data.info())
+            logging.info("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
             self.num_feature = train_feature.select_dtypes(exclude='O').columns
             self.cat_feature = train_feature.select_dtypes(include='O').columns
 

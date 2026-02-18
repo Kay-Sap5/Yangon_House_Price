@@ -22,6 +22,7 @@ models = {'LinearRegression':LinearRegression(),
           'RandomForestRegressor':RandomForestRegressor(),
           "AdaBoostRegressor":AdaBoostRegressor(),
           'GradientBoostingRegressor':GradientBoostingRegressor()}
+
 # models = {
         #   'RandomForestRegressor':RandomForestRegressor(),
         #   'GradientBoostingRegressor':GradientBoostingRegressor()}
@@ -70,27 +71,8 @@ param_grids = {
         'max_depth': [3, 6, 12],
         'min_samples_leaf': [1, 4, 9],
         'loss': ['squared_error', 'huber']
-    }
-}
-# param_grids = {
-    
-#     'RandomForestRegressor': {
-#         'n_estimators': [10,20],
-#         'max_depth': [10, None],
-#         'min_samples_split': [2, 15],
-#         'min_samples_leaf': [1, 8],
-#         'max_features': ['log2'],
-#         'bootstrap': [ False]},
+}}
 
-#     'GradientBoostingRegressor': {
-#         'n_estimators': [10, 20],
-#         'learning_rate': [0.01, 0.1],
-#         'subsample': [0.7, 0.9, 1.0],
-#         'max_depth': [3, 6, 12],
-#         'min_samples_leaf': [1, 4, 9],
-#         'loss': ['squared_error']
-#     }
-# }
 
 
 

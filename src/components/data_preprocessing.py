@@ -173,6 +173,8 @@ class DataPreprocessing:
             logging.info("Step 12")
             result.drop(columns = ['key_value','state'] , inplace = True)
             result.dropna(inplace = True)
+
+            result.rename(columns = {'Type':'type' , 'Bed Room':'bed_room' , 'Bath Room':'bath_room' , 'Floor':'floor'} , inplace = True)
             logging.info(f'Drop na Done , new result shape  = {result.shape}')
 
             logging.info("Finishing end_to_end_processing  Successfully............................................#####")

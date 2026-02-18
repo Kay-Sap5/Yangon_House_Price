@@ -1,12 +1,13 @@
 import os
 import sys
 import numpy as np
+import mlflow
 
 from src.exception.exception import CustomException
 from src.logging.logger import logging
 
 from src.entity.config_entity.config import ModelTrainingConfig
-from src.entity.artifact_entity.artifact import DataTransformationArtifact , ModelTrainingArtifact
+from src.entity.artifact_entity.artifact import DataTransformationArtifact , ModelTrainingArtifact , ModelEvaluationMetricsArtifact
 from src.components.model_evaluation import ModelEvaluationMetic
 
 from src.utils.utils import load_pkl_file , load_npy_file , save_pkl_file
@@ -18,6 +19,29 @@ class ModelTraining:
         try:
             self.model_training_config = model_training_config
             self.data_transformation_artifact = data_transformation_artifact
+        except Exception as e:
+            raise CustomException(e,sys)
+        
+    def track_mlflow(self , best_model , modelevaluationmetric ):
+        try:
+            with mlflow.start_run():
+                logging.info("tack ml flow runned 1")
+                r2 = modelevaluationmetric.r2_score
+                mae = modelevaluationmetric.mean_absolute_error
+                mape = modelevaluationmetric.mean_absolute_percentage_error
+                mse = modelevaluationmetric.mean_square_error
+                rmse = modelevaluationmetric.root_mean_square_error
+                logging.info('trackml_flow runned..2')
+
+                mlflow.log_metric("r2_score",r2)
+                mlflow.log_metric("mae",mae)
+                mlflow.log_metric("mape",mape)
+                mlflow.log_metric("mse",mse)
+                mlflow.log_metric("rmse",rmse)
+                logging.info("ml flow runned 3 .. ")
+
+                mlflow.sklearn.log_model(best_model , 'model')
+                logging.info('mlflow run successfully..')
         except Exception as e:
             raise CustomException(e,sys)
         
@@ -76,6 +100,7 @@ class ModelTraining:
                 model=self.best_model)
             
             save_pkl_file(self.model_training_config.model_training_final_model_file_path , self.network_model)
+            save_pkl_file(self.model_training_config.best_final_model_file_path , self.network_model) #Outside of the artifact
 
             y_train_pred = self.best_model.predict(self.x_train)
             y_test_pred  = self.best_model.predict(self.x_test)
@@ -83,8 +108,13 @@ class ModelTraining:
             train_eval_metric_obj = ModelEvaluationMetic(y_true=self.y_train , y_pred=y_train_pred)
             train_eval_metric = train_eval_metric_obj.initiate_model_evaluation_metric()
 
+            # MLFlow
+            self.track_mlflow(best_model=self.best_model_name , modelevaluationmetric=train_eval_metric)
+
             test_eval_metric_obj  = ModelEvaluationMetic(y_true=self.y_test , y_pred=y_test_pred)
             test_eval_metric = test_eval_metric_obj.initiate_model_evaluation_metric()
+            
+            self.track_mlflow(best_model=self.best_model_name , modelevaluationmetric=test_eval_metric)
 
             logging.info(f"Train Shape = {np.shape(self.x_train)} , Test Shape = {np.shape(self.x_test)}")
             self.model_trainer_artifact = ModelTrainingArtifact(

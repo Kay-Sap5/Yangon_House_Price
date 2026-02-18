@@ -64,11 +64,15 @@ def load_npy_file(file_path):
     
 def save_pkl_file(file_path , obj):
     try:
+        if os.path.exists(file_path):
+            os.remove(file_path)
         os.makedirs(os.path.dirname(file_path) , exist_ok=True)
         with open(file_path , 'wb') as file:
             pickle.dump(obj , file)
     except Exception as e:
         raise CustomException(e,sys)
+    
+
 
 def load_pkl_file(file_path):
     try:
