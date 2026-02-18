@@ -13,6 +13,8 @@ from src.components.model_evaluation import ModelEvaluationMetic
 from src.utils.utils import load_pkl_file , load_npy_file , save_pkl_file
 from src.utils.ml_ultis import models , param_grids , model_trainer , NetworkModel
 
+import dagshub
+dagshub.init(repo_owner='Kay-Sap5', repo_name='Yangon_House_Price', mlflow=True)
 class ModelTraining:
     def __init__(self,model_training_config :ModelTrainingConfig,
                         data_transformation_artifact : DataTransformationArtifact):

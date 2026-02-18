@@ -15,4 +15,6 @@ pydantic
 fastapi
 uvicorn
 mlflow
+dagshub
+apscheduler
 # -e .

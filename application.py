@@ -4,10 +4,29 @@ from src.logging.logger import logging
 from src.exception.exception import CustomException
 from src.prediction.input_validation import InputValidation_Model
 from src.prediction.prediction import Prediction
-import sys
-import pandas as pd
+from src.update_database.main import Run_Update_DataBase
 
-app = FastAPI()
+
+import pandas as pd
+from contextlib import asynccontextmanager
+from apscheduler.schedulers.background import BackgroundScheduler
+from datetime import datetime
+
+
+def update_db():
+        print("Updating Database")
+        Run_Update_DataBase()
+        
+@asynccontextmanager
+async def lifespan(app : FastAPI):
+    scheduler = BackgroundScheduler()
+    scheduler.add_job(update_db , 'interval' , days = 2)
+    scheduler.start()
+    yield
+    scheduler.shutdown() 
+
+app = FastAPI(lifespan=lifespan)
+
 prediction = Prediction()
 
 @app.get("/")
@@ -22,4 +41,8 @@ def input(data : InputValidation_Model) -> dict:
     y_pred = round(y_pred[0],2)
     
     return JSONResponse(status_code=200 , content=({'Prediction':y_pred}))
-    
+
+
+
+        
+

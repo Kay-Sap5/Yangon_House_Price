@@ -9,7 +9,7 @@ import sys
 from src.logging.logger import logging
 from src.exception.exception import CustomException
 
-if __name__ == "__main__":
+def Run_Update_DataBase():
     obj = ScrapeNewLink()
     scrape_new_link_artifact = obj.initiate_scrape_new_link()
 
@@ -19,6 +19,9 @@ if __name__ == "__main__":
     upload_to_mongo = UploadToMongo(scrape_data_artifact=scrape_data_artifact , 
                                     scrape_new_link_artifact=scrape_new_link_artifact)
     upload_to_mongo.initiate_upload_to_mongo()
+
+if __name__ == "__main__":
+    Run_Update_DataBase()
 
 
 
